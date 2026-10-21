@@ -95,16 +95,16 @@
       "sha256": "f62b06e5ac41cb957b0f29b2588a12a20d5e9aa42644599bc429853a530e8d41"
     },
     "README.txt": {
-      "bytes": 8415,
-      "sha256": "390a94aa61b37068b4b3d6b20187592f50f72ed7086f341f01087bc3f1b52c0d"
+      "bytes": 10923,
+      "sha256": "91ac5045eb34fade9b03c9788531a4ed16503f438e4377129286c93a159064e4"
     },
     "requirements.txt": {
       "bytes": 96,
       "sha256": "8f1a0ddff210a91fc24f49a9b21a673b7c9a79e253482300eb8c4d7d41c5ab4b"
     },
     "LMOP_Explorer_Final.html": {
-      "bytes": 1402266,
-      "sha256": "818d23c8c91ac5b858417d85e84ddd1a655b070be1e203543a9049f191a623cc"
+      "bytes": 1739081,
+      "sha256": "f374e5e6a8a1d5879e1895dea57fe80d71805d735e650d34ea6f802513d3f226"
     },
     "reference_results/public_status_spot_checks.csv": {
       "bytes": 2407,
@@ -113,6 +113,18 @@
     "reference_results/public_source_evidence.json": {
       "bytes": 7462,
       "sha256": "7c18f8b8dda2aa581419dbf0bb87371c57c98fa0e26e5e606f662e436c452151"
+    },
+    "public_reference/landfill_locations.csv": {
+      "bytes": 113423,
+      "sha256": "ef6d4d3ad9e4b4f5a1cb0dda81bfafc3b399216fa4a63dd44013960689636120"
+    },
+    "scripts/extract_landfill_locations.py": {
+      "bytes": 2888,
+      "sha256": "a311edb9e81d38284eabdb2947b8c6f4c93bf0ff5d0530699a2b3f40078cd1f5"
+    },
+    "scripts/update_manifest.py": {
+      "bytes": 1404,
+      "sha256": "192a00c6cfff239c0cf2bfee979dd95d12c62a6a043f8dff2775b852148d4a74"
     }
   }
 }

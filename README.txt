@@ -3,28 +3,40 @@ LMOP additional research - 6 October 2026
 Extract, then open LMOP_Explorer_Final.html in Chrome or Edge.
 The entire application works offline with no installation. It contains the
 original 2,641 landfill records plus geographic diagnostics and a downloadable
-757-record public-source verification queue. Expand the two Additional research
-and Practical record-review sections. Queue buckets are verification categories,
-not investment rankings, actual feasibility or methane reduction estimates.
+757-record public-source verification queue (the Record review section). The
+research results are under Research and provenance. Queue buckets are
+verification categories, not investment rankings, actual feasibility or
+methane reduction estimates. Published copy:
+https://chesleyguo.github.io/landfill_dashboard/LMOP_Explorer_Final.html
 
 Explorer features (interface update, 21 October 2026)
 -----------------------------------------------------
 The underlying records, model results and review queue are unchanged; only the
 page interface was extended.
+- Layout: a bar that stays at the top while scrolling shows how many sites
+  are selected and which filters are on, with Edit filters, Reset and Copy
+  view link, plus links to each section (Filters, Overview, Map, Charts,
+  Compare, Records, Review, Research); the section in view is highlighted.
+  Five common filters and search are always shown; the rest are under
+  "More filters" (which shows how many are active). Press / to jump to search.
 - Records table: every column sorts (select a heading: first click high-to-low
   for numbers, A-Z for text; again to reverse; a third time restores the
   original order). Missing values always sort last. A Waste year column was
   added. Choose 20/40/100/250 rows per page or type a page number.
 - CSV export follows the current sort, and records the sort in its
-  Selection Filters column. "Export table CSV" (next to the records table)
-  saves every selected record, not only the visible page, with the table's
-  columns plus Landfill ID; "Export selected CSV" saves all source fields.
+  Selection Filters column. Both exports sit next to the records table
+  and include every selected record, not only the visible page: "Table
+  columns" (the table's columns plus Landfill ID and review fields) and "All
+  source fields" (all 16 source fields).
 - Shareable views: filters, sort, page, chart and comparison choices are kept
   in the address after "#" (e.g. LMOP_Explorer_Final.html#state=CA&sort=waste-desc).
-  "Copy view link" copies it. The link contains a local file path, so a
+  "Copy view link" copies it. On the published site the link opens the same
+  view directly; from a local copy it contains a local file path, so a
   recipient appends the "#..." part to the address of their own copy.
 - Active filters appear as removable tags under the filter panel.
-- States and territories: a schematic tile map (equal tiles, not geographic
+- Map: one panel with two views, Sites (see Landfill locations below) and
+  State rates.
+- State rates: a schematic tile map (equal tiles, not geographic
   area) colored by Operational record share, active collection share,
   Collection Yes / (Yes + No) or site count. It ignores the State filter so
   states stay comparable; select a tile to filter by that state. Tiles with a
@@ -47,7 +59,7 @@ page interface was extended.
   other filters (a site can carry several, so bars do not sum to 100%);
   select a bar to filter. Waste data year chart: how old each waste value is.
 - Records table: review-bucket and spot-check badges, and the full project
-  status set under the energy record. Export table CSV includes county,
+  status set under the energy record. Table columns export includes county,
   project statuses, review bucket and spot-check flag.
 - Site details: Previous/Next through the current order (arrow keys work),
   the record's review question, public-source check findings and limits,
@@ -62,11 +74,35 @@ page interface was extended.
   sites and false positives at any threshold; 0.5 and the training-selected
   0.338 reproduce the published 62/27 and 113/55). The explorer uses holdout
   labels for illustration and must not be used to pick a threshold.
-- The record-review panel has "Show these 757 records in the table".
+- The Record review section has "Show these 757 records in the table".
+- Groups in "Comparison within selection" (status, ownership, state, county)
+  can be selected to filter by them; select again to clear.
 - The page embeds compact copies of reference_results/geographic_predictions.csv
   (scores in thousandths), public_reference/holdout_predictions.csv,
   public_reference/operational_project_site_links.csv and
-  reference_results/public_status_spot_checks.csv (about 110 KB).
+  reference_results/public_status_spot_checks.csv (about 110 KB), plus the
+  map data (about 310 KB): state outlines from U.S. Census Bureau
+  cartographic boundaries (2017) via us-atlas 3.0.1 states-albers-10m.json
+  (ISC license, SHA256 6e7bb086a3c791490361968a3094f377f7726c5d0c4900fec03cc42db2305a3d)
+  and site positions projected from public_reference/landfill_locations.csv.
+- public_reference/landfill_locations.csv (latitude, longitude, city, GHGRP
+  ID) is extracted from the official landfill file, after its hash is checked:
+    python scripts/extract_landfill_locations.py path/to/landfilllmopdata.xlsx
+- Landfill locations: a point map of the selected sites (Albers USA; Alaska,
+  Hawaii, Puerto Rico, Guam and the U.S. Virgin Islands as insets), colored
+  by energy record and optionally sized by waste in place. It zooms to the
+  selected state or county. 2,322 of 2,641 sites are mapped: 318 have no
+  coordinates in the source, and Pine Tree Landfill (ID 2259, Maine) has a
+  source longitude of -98.8695, which places it outside Maine, so it is not
+  mapped and the source value is left uncorrected. Site details add city,
+  GHGRP facility ID (1,332 sites; the key for a future join to EPA GHGRP
+  emissions), coordinates and the five nearest landfills.
+- My review workbench (Record review section and each site's details): record
+  a result (confirmed as recorded, discrepancy found, could not determine),
+  notes and an evidence link for any site, step to the next unreviewed record,
+  filter by "My review", and export (CSV) or back up / restore (JSON).
+  Reviews are stored only in the browser on that device; they are never
+  uploaded and other visitors cannot see them.
 - Phones show records as cards with a sort menu. Printing expands all
   collapsed sections and adds a line with print time, filters, sort and view
   link; only the current page of the records table is printed.
