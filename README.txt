@@ -16,7 +16,9 @@ page interface was extended.
   original order). Missing values always sort last. A Waste year column was
   added. Choose 20/40/100/250 rows per page or type a page number.
 - CSV export follows the current sort, and records the sort in its
-  Selection Filters column.
+  Selection Filters column. "Export table CSV" (next to the records table)
+  saves every selected record, not only the visible page, with the table's
+  columns plus Landfill ID; "Export selected CSV" saves all source fields.
 - Shareable views: filters, sort, page, chart and comparison choices are kept
   in the address after "#" (e.g. LMOP_Explorer_Final.html#state=CA&sort=waste-desc).
   "Copy view link" copies it. The link contains a local file path, so a

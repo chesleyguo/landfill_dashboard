@@ -95,16 +95,16 @@
       "sha256": "f62b06e5ac41cb957b0f29b2588a12a20d5e9aa42644599bc429853a530e8d41"
     },
     "README.txt": {
-      "bytes": 6088,
-      "sha256": "6c78cab022f6d4cc8ce03322f668f8fe46d41ca98b8bf0407917434b3bcaf3a0"
+      "bytes": 6285,
+      "sha256": "48649070dc2fe0dad7a813483aaeade1fc9036678ed58f29d040acddf4d57de7"
     },
     "requirements.txt": {
       "bytes": 96,
       "sha256": "8f1a0ddff210a91fc24f49a9b21a673b7c9a79e253482300eb8c4d7d41c5ab4b"
     },
     "LMOP_Explorer_Final.html": {
-      "bytes": 1268399,
-      "sha256": "bd9b777755ff136cd35943d7a1deb35ea87ed7bc75f407aebda9e21f3ba1ec3e"
+      "bytes": 1269048,
+      "sha256": "ce12d59372aeb8467b76a5fc575c30fbe825781f7572855efc374d649e8d97c5"
     },
     "reference_results/public_status_spot_checks.csv": {
       "bytes": 2407,
