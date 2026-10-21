@@ -93,6 +93,6 @@ https://www.epa.gov/lmop/landfill-gas-energy-project-data
 Mixed years, incomplete recording and uneven Unknown exclusions limit all
 inferences. Waste amounts are US short tons. The waste year is not the date
 of every status. Public source availability is not asserted to be a CC0 license.
-Prepared with Codex assistance for the Alice / Chesley research project.
+Prepared with Codex assistance.
 
 Final extension: four public-source status examples with dated/undated identity limits. Historical model targets remain unchanged. Public webpages/PDF binaries are not bundled; source URLs and paraphrased evidence are retained.
