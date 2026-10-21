@@ -1,0 +1,2326 @@
+﻿Landfill ID,geographic_project_group,partition,cv_fold,energy_record_class
+1,AZ|pima,holdout,-1,Known status; no Operational record
+2,AL|morgan,holdout,-1,Operational record
+3,AL|cullman,train,0,Known status; no Operational record
+4,AL|cullman,train,0,Known status; no Operational record
+5,AL|shelby,train,0,Known status; no Operational record
+6,AL|calhoun,train,2,Known status; no Operational record
+7,AL|st. clair,train,4,Known status; no Operational record
+8,AL|mobile,train,3,Known status; no Operational record
+9,AL|coffee,train,4,Known status; no Operational record
+10,AL|mobile,train,3,Known status; no Operational record
+11,AL|madison,holdout,-1,Known status; no Operational record
+12,AL|jefferson,train,2,Known status; no Operational record
+13,AL|jefferson,train,2,Known status; no Operational record
+14,AL|jefferson,train,2,Known status; no Operational record
+15,AL|jefferson,train,2,Known status; no Operational record
+16,AL|marshall,train,2,Known status; no Operational record
+17,AL|lee,train,4,Known status; no Operational record
+18,AL|montgomery,train,1,Known status; no Operational record
+19,AL|houston,train,1,Known status; no Operational record
+20,AL|baldwin,train,0,Known status; no Operational record
+21,AL|escambia,train,3,Known status; no Operational record
+22,AL|walker,train,3,Known status; no Operational record
+23,AL|st. clair,train,4,Operational record
+25,AL|jefferson,train,2,Known status; no Operational record
+27,AL|limestone,train,0,Known status; no Operational record
+30,AL|mobile,train,3,Known status; no Operational record
+31,AL|monroe,train,4,Known status; no Operational record
+32,AL|colbert,train,4,Known status; no Operational record
+33,AL|jackson,train,1,Known status; no Operational record
+34,AL|lauderdale,train,3,Known status; no Operational record
+35,AL|lauderdale,train,3,Known status; no Operational record
+36,CA|contra costa,train,2,Operational record
+39,CA|alameda,train,4,Operational record
+40,CA|modoc,train,2,Known status; no Operational record
+41,CA|amador,train,3,Known status; no Operational record
+42,CA|fresno,holdout,-1,Known status; no Operational record
+44,CA|napa,holdout,-1,Known status; no Operational record
+45,CA|shasta,holdout,-1,Known status; no Operational record
+46,CA|sonoma,train,3,Known status; no Operational record
+47,CA|los angeles,train,0,Known status; no Operational record
+48,CA|riverside,train,1,Known status; no Operational record
+49,CA|san bernardino,holdout,-1,Known status; no Operational record
+50,CA|kern,holdout,-1,Known status; no Operational record
+51,CA|san joaquin,train,4,Known status; no Operational record
+52,CA|kings,train,3,Known status; no Operational record
+53,CA|los angeles,train,0,Known status; no Operational record
+54,CA|solano,train,2,Operational record
+55,CA|riverside,train,1,Known status; no Operational record
+56,CA|ventura,train,4,Known status; no Operational record
+57,CA|san bernardino,holdout,-1,Known status; no Operational record
+58,CA|kern,holdout,-1,Known status; no Operational record
+59,CA|tulare,holdout,-1,Known status; no Operational record
+60,CA|san bernardino,holdout,-1,Known status; no Operational record
+61,CA|yuba,train,2,Known status; no Operational record
+62,CA|orange,train,4,Operational record
+63,CA|santa cruz,train,0,Known status; no Operational record
+64,CA|mono,holdout,-1,Known status; no Operational record
+65,CA|mono,holdout,-1,Known status; no Operational record
+66,CA|napa,holdout,-1,Known status; no Operational record
+67,CA|lassen,train,4,Known status; no Operational record
+68,CA|san bernardino,holdout,-1,Known status; no Operational record
+69,CA|tuolumne,train,0,Known status; no Operational record
+70,CA|merced,train,1,Known status; no Operational record
+71,CA|inyo,train,3,Known status; no Operational record
+72,CA|los angeles,train,0,Operational record
+73,CA|siskiyou,train,1,Known status; no Operational record
+74,CA|riverside,train,1,Known status; no Operational record
+75,CA|stanislaus,holdout,-1,Known status; no Operational record
+76,CA|kern,holdout,-1,Known status; no Operational record
+77,CA|san diego,train,3,Known status; no Operational record
+78,CA|los angeles,train,0,Known status; no Operational record
+81,CA|imperial,holdout,-1,Known status; no Operational record
+82,CA|mono,holdout,-1,Known status; no Operational record
+83,CA|santa cruz,train,0,Operational record
+84,CA|los angeles,train,0,Operational record
+85,CA|kern,holdout,-1,Known status; no Operational record
+87,CA|los angeles,train,0,Operational record
+89,CA|imperial,holdout,-1,Known status; no Operational record
+90,CA|san bernardino,holdout,-1,Known status; no Operational record
+91,CA|san luis obispo,train,0,Known status; no Operational record
+92,CA|san luis obispo,train,0,Known status; no Operational record
+93,CA|san luis obispo,train,0,Known status; no Operational record
+94,CA|sonoma,train,3,Known status; no Operational record
+95,CA|mendocino,train,2,Known status; no Operational record
+96,CA|siskiyou,train,1,Known status; no Operational record
+97,CA|modoc,train,2,Known status; no Operational record
+99,CA|mono,holdout,-1,Known status; no Operational record
+100,CA|fresno,holdout,-1,Known status; no Operational record
+101,CA|plumas,holdout,-1,Known status; no Operational record
+102,CA|fresno,holdout,-1,Known status; no Operational record
+103,CA|san luis obispo,train,0,Known status; no Operational record
+104,CA|kern,holdout,-1,Known status; no Operational record
+105,CA|los angeles,train,0,Operational record
+106,CA|humboldt,train,0,Known status; no Operational record
+107,CA|fresno,holdout,-1,Known status; no Operational record
+108,CA|santa barbara,train,1,Known status; no Operational record
+110,CA|san luis obispo,train,0,Known status; no Operational record
+111,CA|shasta,holdout,-1,Known status; no Operational record
+113,CA|santa barbara,train,1,Operational record
+114,CA|santa clara,train,1,Operational record
+115,CA|mendocino,train,2,Known status; no Operational record
+116,CA|los angeles,train,0,Operational record
+117,CA|mendocino,train,2,Known status; no Operational record
+118,CA|placer,train,0,Known status; no Operational record
+120,CA|riverside,train,1,Known status; no Operational record
+121,CA|fresno,holdout,-1,Known status; no Operational record
+122,CA|san luis obispo,train,0,Operational record
+124,CA|san bernardino,holdout,-1,Known status; no Operational record
+125,CA|contra costa,train,2,Known status; no Operational record
+126,CA|san joaquin,train,4,Known status; no Operational record
+128,CA|orange,train,4,Known status; no Operational record
+129,CA|monterey,train,3,Known status; no Operational record
+130,CA|del norte,train,1,Known status; no Operational record
+132,CA|inyo,train,3,Known status; no Operational record
+135,CA|sacramento,train,2,Known status; no Operational record
+136,CA|riverside,train,1,Known status; no Operational record
+137,CA|alameda,train,4,Known status; no Operational record
+138,CA|kern,holdout,-1,Known status; no Operational record
+139,CA|riverside,train,1,Known status; no Operational record
+140,CA|modoc,train,2,Known status; no Operational record
+141,CA|tulare,holdout,-1,Known status; no Operational record
+142,CA|placer,train,0,Known status; no Operational record
+143,CA|lake,holdout,-1,Known status; no Operational record
+144,CA|riverside,train,1,Known status; no Operational record
+145,CA|kern,holdout,-1,Known status; no Operational record
+147,CA|riverside,train,1,Known status; no Operational record
+148,CA|colusa,holdout,-1,Known status; no Operational record
+149,CA|tulare,holdout,-1,Known status; no Operational record
+150,CA|madera,train,3,Known status; no Operational record
+151,CA|stanislaus,holdout,-1,Known status; no Operational record
+153,CA|san joaquin,train,4,Operational record
+154,CA|modoc,train,2,Known status; no Operational record
+156,CA|santa barbara,train,1,Known status; no Operational record
+157,CA|san joaquin,train,4,Known status; no Operational record
+158,CA|inyo,train,3,Known status; no Operational record
+159,CA|stanislaus,holdout,-1,Known status; no Operational record
+160,CA|glenn,train,4,Known status; no Operational record
+161,CA|kern,holdout,-1,Known status; no Operational record
+162,CA|san bernardino,holdout,-1,Known status; no Operational record
+163,CA|plumas,holdout,-1,Known status; no Operational record
+164,CA|santa clara,train,1,Known status; no Operational record
+165,CA|kings,train,3,Known status; no Operational record
+166,CA|siskiyou,train,1,Known status; no Operational record
+167,CA|san joaquin,train,4,Known status; no Operational record
+169,CA|lassen,train,4,Known status; no Operational record
+170,CA|san bernardino,holdout,-1,Known status; no Operational record
+171,CA|riverside,train,1,Known status; no Operational record
+172,CA|merced,train,1,Known status; no Operational record
+173,CA|san mateo,holdout,-1,Known status; no Operational record
+175,CA|imperial,holdout,-1,Known status; no Operational record
+177,CA|imperial,holdout,-1,Known status; no Operational record
+178,CA|siskiyou,train,1,Known status; no Operational record
+179,CA|imperial,holdout,-1,Known status; no Operational record
+180,CA|inyo,train,3,Known status; no Operational record
+181,CA|san benito,train,1,Known status; no Operational record
+182,CA|monterey,train,3,Operational record
+183,CA|monterey,train,3,Known status; no Operational record
+184,CA|contra costa,train,2,Operational record
+185,CA|siskiyou,train,1,Known status; no Operational record
+186,CA|tulare,holdout,-1,Known status; no Operational record
+187,CA|kern,holdout,-1,Known status; no Operational record
+188,CA|santa clara,train,1,Known status; no Operational record
+189,CA|sacramento,train,2,Known status; no Operational record
+190,CA|modoc,train,2,Known status; no Operational record
+191,CA|riverside,train,1,Known status; no Operational record
+192,CA|san bernardino,holdout,-1,Known status; no Operational record
+193,CA|san diego,train,3,Known status; no Operational record
+194,CA|lassen,train,4,Known status; no Operational record
+195,CA|siskiyou,train,1,Known status; no Operational record
+196,CA|mendocino,train,2,Known status; no Operational record
+197,CA|kern,holdout,-1,Known status; no Operational record
+198,CA|san bernardino,holdout,-1,Known status; no Operational record
+199,CA|monterey,train,3,Known status; no Operational record
+200,CA|inyo,train,3,Known status; no Operational record
+201,CA|los angeles,train,0,Operational record
+203,CA|sierra,train,0,Known status; no Operational record
+204,CA|san bernardino,holdout,-1,Known status; no Operational record
+205,CA|lassen,train,4,Known status; no Operational record
+206,CA|mariposa,train,3,Known status; no Operational record
+207,CA|siskiyou,train,1,Known status; no Operational record
+208,CA|nevada,train,0,Known status; no Operational record
+209,CA|kern,holdout,-1,Known status; no Operational record
+210,CA|riverside,train,1,Known status; no Operational record
+211,CA|riverside,train,1,Known status; no Operational record
+212,CA|san bernardino,holdout,-1,Known status; no Operational record
+213,CA|san bernardino,holdout,-1,Known status; no Operational record
+214,CA|san diego,train,3,Operational record
+215,CA|kern,holdout,-1,Known status; no Operational record
+217,CA|monterey,train,3,Operational record
+218,CA|san bernardino,holdout,-1,Known status; no Operational record
+220,CA|butte,train,2,Operational record
+221,CA|san bernardino,holdout,-1,Known status; no Operational record
+222,CA|santa barbara,train,1,Known status; no Operational record
+224,CA|san bernardino,holdout,-1,Known status; no Operational record
+225,CA|santa clara,train,1,Known status; no Operational record
+226,CA|imperial,holdout,-1,Known status; no Operational record
+227,CA|san joaquin,train,4,Known status; no Operational record
+228,CA|kern,holdout,-1,Known status; no Operational record
+229,CA|riverside,train,1,Known status; no Operational record
+230,CA|imperial,holdout,-1,Known status; no Operational record
+232,CA|orange,train,4,Operational record
+233,CA|fresno,holdout,-1,Operational record
+234,CA|san bernardino,holdout,-1,Known status; no Operational record
+236,CA|san diego,train,3,Known status; no Operational record
+238,CA|san mateo,holdout,-1,Operational record
+239,CA|santa clara,train,1,Known status; no Operational record
+240,CA|ventura,train,4,Known status; no Operational record
+241,CA|shasta,holdout,-1,Known status; no Operational record
+242,CA|imperial,holdout,-1,Known status; no Operational record
+244,CA|san bernardino,holdout,-1,Known status; no Operational record
+246,CA|los angeles,train,0,Known status; no Operational record
+247,CA|placer,train,0,Operational record
+248,CA|yuba,train,2,Known status; no Operational record
+249,CA|plumas,holdout,-1,Known status; no Operational record
+250,CA|solano,train,2,Operational record
+251,CA|orange,train,4,Known status; no Operational record
+252,CA|mono,holdout,-1,Known status; no Operational record
+253,CA|san diego,train,3,Known status; no Operational record
+254,CA|lassen,train,4,Known status; no Operational record
+256,CA|tehama,train,4,Known status; no Operational record
+257,CA|calaveras,train,0,Known status; no Operational record
+258,CA|marin,train,1,Operational record
+259,CA|san bernardino,holdout,-1,Known status; no Operational record
+260,CA|kern,holdout,-1,Known status; no Operational record
+261,CA|solano,train,2,Known status; no Operational record
+262,CA|calaveras,train,0,Known status; no Operational record
+263,CA|siskiyou,train,1,Known status; no Operational record
+264,CA|sacramento,train,2,Known status; no Operational record
+265,CA|sacramento,train,2,Operational record
+266,CA|imperial,holdout,-1,Known status; no Operational record
+267,CA|monterey,train,3,Known status; no Operational record
+268,CA|san diego,train,3,Operational record
+269,CA|san diego,train,3,Known status; no Operational record
+270,CA|san bernardino,holdout,-1,Known status; no Operational record
+271,CA|santa cruz,train,0,Operational record
+273,CA|orange,train,4,Known status; no Operational record
+274,CA|los angeles,train,0,Known status; no Operational record
+275,CA|kern,holdout,-1,Known status; no Operational record
+277,CA|inyo,train,3,Known status; no Operational record
+278,CA|lassen,train,4,Known status; no Operational record
+279,CA|ventura,train,4,Known status; no Operational record
+280,CA|shasta,holdout,-1,Known status; no Operational record
+282,CA|mendocino,train,2,Known status; no Operational record
+283,CA|fresno,holdout,-1,Known status; no Operational record
+285,CA|colusa,holdout,-1,Known status; no Operational record
+286,CA|los angeles,train,0,Operational record
+287,CA|san diego,train,3,Known status; no Operational record
+288,CA|kern,holdout,-1,Known status; no Operational record
+289,CA|santa barbara,train,1,Operational record
+290,CA|tulare,holdout,-1,Known status; no Operational record
+291,CA|inyo,train,3,Known status; no Operational record
+292,CA|kern,holdout,-1,Known status; no Operational record
+294,CA|ventura,train,4,Known status; no Operational record
+295,CA|san bernardino,holdout,-1,Known status; no Operational record
+297,CA|siskiyou,train,1,Known status; no Operational record
+298,CA|tuolumne,train,0,Known status; no Operational record
+299,CA|san bernardino,holdout,-1,Known status; no Operational record
+300,CA|shasta,holdout,-1,Known status; no Operational record
+301,CA|los angeles,train,0,Known status; no Operational record
+302,CA|el dorado,train,2,Operational record
+303,CA|yolo,train,1,Operational record
+306,CA|san bernardino,holdout,-1,Known status; no Operational record
+307,CA|kern,holdout,-1,Known status; no Operational record
+308,CA|santa barbara,train,1,Known status; no Operational record
+309,CA|alameda,train,4,Operational record
+311,CA|san bernardino,holdout,-1,Known status; no Operational record
+312,CA|tulare,holdout,-1,Known status; no Operational record
+313,CA|mono,holdout,-1,Known status; no Operational record
+314,CA|los angeles,train,0,Known status; no Operational record
+315,CA|santa cruz,train,0,Known status; no Operational record
+318,CA|siskiyou,train,1,Known status; no Operational record
+319,CA|shasta,holdout,-1,Known status; no Operational record
+320,CA|contra costa,train,2,Operational record
+321,CA|marin,train,1,Known status; no Operational record
+323,CA|lassen,train,4,Known status; no Operational record
+324,CA|tulare,holdout,-1,Known status; no Operational record
+325,CA|imperial,holdout,-1,Known status; no Operational record
+326,CA|san bernardino,holdout,-1,Known status; no Operational record
+327,CA|yolo,train,1,Operational record
+328,CA|siskiyou,train,1,Known status; no Operational record
+329,CA|yuba,train,2,Known status; no Operational record
+330,CA|yuba,train,2,Known status; no Operational record
+331,CA|santa clara,train,1,Known status; no Operational record
+332,CA|santa clara,train,1,Known status; no Operational record
+333,CA|alameda,train,4,Known status; no Operational record
+334,CA|los angeles,train,0,Known status; no Operational record
+335,CA|los angeles,train,0,Known status; no Operational record
+336,CA|san mateo,holdout,-1,Known status; no Operational record
+337,CA|los angeles,train,0,Operational record
+338,CA|san bernardino,holdout,-1,Known status; no Operational record
+342,CA|riverside,train,1,Operational record
+343,CA|los angeles,train,0,Operational record
+344,CA|santa clara,train,1,Known status; no Operational record
+346,CA|los angeles,train,0,Known status; no Operational record
+347,CA|los angeles,train,0,Known status; no Operational record
+349,CA|santa clara,train,1,Operational record
+351,CA|los angeles,train,0,Known status; no Operational record
+352,CA|los angeles,train,0,Operational record
+354,CA|los angeles,train,0,Known status; no Operational record
+355,CT|hartford,train,1,Known status; no Operational record
+357,CT|tolland,train,3,Known status; no Operational record
+358,CT|new london,holdout,-1,Known status; no Operational record
+359,CT|hartford,train,1,Known status; no Operational record
+360,CT|hartford,train,1,Known status; no Operational record
+361,CT|new haven,train,2,Known status; no Operational record
+362,CT|litchfield,holdout,-1,Operational record
+363,CT|hartford,train,1,Operational record
+364,CT|windham,train,4,Known status; no Operational record
+365,CT|fairfield,train,0,Known status; no Operational record
+366,CT|litchfield,holdout,-1,Known status; no Operational record
+367,CT|new haven,train,2,Known status; no Operational record
+368,CT|hartford,train,1,Known status; no Operational record
+369,CT|fairfield,train,0,Known status; no Operational record
+370,CT|windham,train,4,Known status; no Operational record
+371,CT|hartford,train,1,Known status; no Operational record
+372,CT|windham,train,4,Known status; no Operational record
+373,CT|new haven,train,2,Known status; no Operational record
+374,CT|new haven,train,2,Known status; no Operational record
+375,CT|new haven,train,2,Known status; no Operational record
+378,CT|hartford,train,1,Known status; no Operational record
+379,FL|bay,train,1,Known status; no Operational record
+380,FL|brevard,train,3,Operational record
+383,FL|duval,train,2,Known status; no Operational record
+386,FL|duval,train,2,Known status; no Operational record
+387,FL|hernando,train,3,Known status; no Operational record
+388,FL|hillsborough,holdout,-1,Known status; no Operational record
+389,FL|okaloosa,train,3,Known status; no Operational record
+391,FL|pasco,train,1,Known status; no Operational record
+392,FL|pinellas,train,0,Known status; no Operational record
+394,FL|pinellas,train,0,Known status; no Operational record
+395,FL|putnam,train,3,Known status; no Operational record
+396,FL|alachua,train,2,Known status; no Operational record
+397,FL|broward,train,4,Operational record
+398,FL|charlotte,train,0,Operational record
+399,FL|citrus,train,1,Known status; no Operational record
+401,FL|collier,holdout,-1,Operational record
+402,FL|miami-dade,train,2,Known status; no Operational record
+403,FL|miami-dade,train,2,Known status; no Operational record
+404,FL|miami-dade,train,2,Known status; no Operational record
+405,FL|duval,train,2,Operational record
+406,FL|escambia,holdout,-1,Operational record
+407,FL|highlands,train,3,Known status; no Operational record
+408,FL|indian river,train,0,Operational record
+409,FL|jackson,holdout,-1,Operational record
+410,FL|lee,train,1,Known status; no Operational record
+411,FL|leon,holdout,-1,Known status; no Operational record
+412,FL|madison,holdout,-1,Known status; no Operational record
+413,FL|madison,holdout,-1,Known status; no Operational record
+414,FL|manatee,train,0,Operational record
+415,FL|marion,train,1,Operational record
+416,FL|martin,train,4,Known status; no Operational record
+417,FL|monroe,holdout,-1,Known status; no Operational record
+418,FL|nassau,train,4,Known status; no Operational record
+419,FL|okeechobee,train,3,Known status; no Operational record
+420,FL|orange,train,3,Operational record
+421,FL|osceola,train,4,Known status; no Operational record
+422,FL|osceola,train,4,Known status; no Operational record
+423,FL|palm beach,train,0,Known status; no Operational record
+424,FL|polk,train,1,Known status; no Operational record
+426,FL|putnam,train,3,Known status; no Operational record
+428,FL|st. lucie,train,3,Operational record
+429,FL|santa rosa,train,0,Known status; no Operational record
+430,FL|sarasota,train,1,Known status; no Operational record
+431,FL|seminole,train,2,Operational record
+432,FL|taylor,train,0,Known status; no Operational record
+433,FL|union,train,4,Operational record
+434,FL|volusia,train,0,Known status; no Operational record
+435,FL|duval,train,2,Known status; no Operational record
+436,FL|duval,train,2,Known status; no Operational record
+437,GA|cherokee,train,0,Known status; no Operational record
+438,GA|fayette,train,0,Known status; no Operational record
+439,GA|fulton,train,4,Known status; no Operational record
+440,GA|oglethorpe,train,3,Known status; no Operational record
+441,GA|richmond,train,4,Known status; no Operational record
+444,GA|chatham,train,3,Operational record
+445,GA|clarke,holdout,-1,Operational record
+446,GA|clayton,train,3,Operational record
+447,GA|columbia,train,1,Known status; no Operational record
+448,GA|dekalb,train,1,Operational record
+449,GA|dekalb,train,1,Operational record
+450,GA|dougherty,train,2,Operational record
+451,GA|fulton,train,4,Known status; no Operational record
+452,GA|dekalb,train,1,Known status; no Operational record
+453,GA|fulton,train,4,Known status; no Operational record
+454,GA|gwinnett,train,0,Operational record
+455,GA|gwinnett,train,0,Known status; no Operational record
+456,GA|hall,holdout,-1,Known status; no Operational record
+457,GA|houston,train,0,Operational record
+458,GA|lowndes,holdout,-1,Operational record
+459,GA|monroe,train,2,Known status; no Operational record
+460,GA|muscogee,train,0,Known status; no Operational record
+461,GA|taylor,train,0,Operational record
+462,GA|whitfield,train,0,Operational record
+464,GA|bibb,train,4,Operational record
+465,GA|fulton,train,4,Known status; no Operational record
+466,GA|fulton,train,4,Known status; no Operational record
+467,GA|dekalb,train,1,Operational record
+468,GA|gwinnett,train,0,Known status; no Operational record
+469,IL|adams,train,0,Known status; no Operational record
+470,IL|bond,train,3,Known status; no Operational record
+471,IL|christian,train,0,Operational record
+472,IL|coles,holdout,-1,Known status; no Operational record
+474,IL|cook,train,1,Operational record
+475,IL|cook,train,1,Operational record
+476,IL|cook,train,1,Known status; no Operational record
+477,IL|cook,train,1,Known status; no Operational record
+478,IL|cook,train,1,Known status; no Operational record
+480,IL|dekalb,train,1,Known status; no Operational record
+481,IL|de witt,train,2,Operational record
+482,IL|douglas,train,2,Known status; no Operational record
+483,IL|dupage,train,3,Operational record
+484,IL|dupage,train,3,Known status; no Operational record
+485,IL|greene,train,2,Known status; no Operational record
+486,IL|grundy,train,1,Known status; no Operational record
+487,IL|grundy,train,1,Known status; no Operational record
+488,IL|iroquois,train,3,Known status; no Operational record
+489,IL|iroquois,train,3,Known status; no Operational record
+490,IL|jackson,train,0,Known status; no Operational record
+491,IL|kane,train,2,Operational record
+492,IL|kane,train,2,Operational record
+493,IL|kankakee,holdout,-1,Known status; no Operational record
+494,IL|lake,train,3,Known status; no Operational record
+495,IL|lake,train,3,Known status; no Operational record
+497,IL|livingston,train,1,Operational record
+498,IL|livingston,train,1,Known status; no Operational record
+499,IL|mcdonough,train,0,Known status; no Operational record
+500,IL|mclean,train,2,Operational record
+501,IL|macon,train,2,Known status; no Operational record
+503,IL|madison,train,3,Known status; no Operational record
+504,IL|madison,train,3,Known status; no Operational record
+507,IL|ogle,train,4,Operational record
+509,IL|peoria,train,4,Known status; no Operational record
+510,IL|rock island,train,1,Known status; no Operational record
+511,IL|rock island,train,1,Known status; no Operational record
+513,IL|sangamon,train,3,Known status; no Operational record
+514,IL|st. clair,train,4,Known status; no Operational record
+516,IL|st. clair,train,4,Operational record
+517,IL|tazewell,train,4,Known status; no Operational record
+518,IL|tazewell,train,4,Operational record
+519,IL|tazewell,train,4,Known status; no Operational record
+521,IL|will,train,2,Operational record
+522,IL|will,train,2,Operational record
+523,IL|will,train,2,Known status; no Operational record
+524,IL|williamson,train,4,Known status; no Operational record
+526,IL|cook,train,1,Known status; no Operational record
+527,IL|cook,train,1,Known status; no Operational record
+529,IL|cook,train,1,Operational record
+530,IN|adams,train,0,Known status; no Operational record
+531,IN|bartholomew,train,1,Known status; no Operational record
+532,IN|pike,holdout,-1,Operational record
+533,IN|shelby,train,3,Known status; no Operational record
+534,IN|lake,train,4,Known status; no Operational record
+535,IN|clark,train,0,Known status; no Operational record
+536,IN|fulton,train,0,Operational record
+537,IN|martin,train,3,Known status; no Operational record
+538,IN|daviess,train,1,Known status; no Operational record
+539,IN|decatur,train,2,Known status; no Operational record
+540,IN|elkhart,train,0,Operational record
+541,IN|knox,train,1,Known status; no Operational record
+542,IN|elkhart,train,0,Operational record
+543,IN|fountain,train,2,Known status; no Operational record
+544,IN|hancock,holdout,-1,Known status; no Operational record
+545,IN|henry,train,1,Known status; no Operational record
+546,IN|huntington,train,2,Known status; no Operational record
+547,IN|jay,train,2,Operational record
+548,IN|jennings,train,3,Known status; no Operational record
+549,IN|lagrange,train,0,Known status; no Operational record
+550,IN|laporte,train,2,Operational record
+551,IN|monroe,train,4,Known status; no Operational record
+552,IN|clinton,train,1,Known status; no Operational record
+553,IN|lake,train,4,Operational record
+554,IN|allen,holdout,-1,Operational record
+555,IN|wayne,train,0,Known status; no Operational record
+556,IN|cass,holdout,-1,Operational record
+557,IN|owen,train,4,Known status; no Operational record
+558,IN|pike,holdout,-1,Known status; no Operational record
+559,IN|st. joseph,train,3,Operational record
+560,IN|randolph,train,3,Operational record
+561,IN|kosciusko,train,3,Known status; no Operational record
+562,IN|jackson,train,0,Operational record
+563,IN|ripley,train,1,Known status; no Operational record
+565,IN|sullivan,train,4,Known status; no Operational record
+567,IN|hendricks,train,4,Operational record
+568,IN|allen,holdout,-1,Known status; no Operational record
+570,IN|wabash,train,0,Known status; no Operational record
+571,IN|warrick,train,3,Known status; no Operational record
+572,IN|washington,train,1,Known status; no Operational record
+573,IN|vermillion,holdout,-1,Known status; no Operational record
+574,IN|greene,train,4,Known status; no Operational record
+576,IN|blackford,train,3,Known status; no Operational record
+577,IN|brown,train,4,Known status; no Operational record
+578,IN|bartholomew,train,1,Known status; no Operational record
+579,IN|clay,train,0,Known status; no Operational record
+580,IN|vigo,train,1,Known status; no Operational record
+581,IN|decatur,train,2,Known status; no Operational record
+582,IN|dekalb,train,1,Known status; no Operational record
+583,IN|marion,train,1,Known status; no Operational record
+584,IN|gibson,holdout,-1,Known status; no Operational record
+585,IN|dearborn,train,3,Known status; no Operational record
+586,IN|howard,train,3,Known status; no Operational record
+587,IN|lake,train,4,Known status; no Operational record
+588,IN|clark,train,0,Known status; no Operational record
+589,IN|dubois,train,4,Known status; no Operational record
+591,IN|lawrence,holdout,-1,Known status; no Operational record
+592,IN|madison,train,0,Known status; no Operational record
+594,IN|posey,train,0,Known status; no Operational record
+595,IN|vermillion,holdout,-1,Known status; no Operational record
+596,IN|noble,train,2,Known status; no Operational record
+597,IN|vigo,train,1,Known status; no Operational record
+598,IN|wells,train,2,Known status; no Operational record
+599,IN|boone,train,2,Known status; no Operational record
+600,IN|dearborn,train,3,Known status; no Operational record
+601,IN|ripley,train,1,Known status; no Operational record
+602,IN|jackson,train,0,Known status; no Operational record
+603,IN|wells,train,2,Known status; no Operational record
+604,IN|marion,train,1,Known status; no Operational record
+605,IN|spencer,train,2,Known status; no Operational record
+606,IN|wabash,train,0,Known status; no Operational record
+607,IN|miami,train,4,Known status; no Operational record
+608,IN|vermillion,holdout,-1,Known status; no Operational record
+609,IN|warren,train,2,Known status; no Operational record
+610,IN|laporte,train,2,Known status; no Operational record
+611,IN|whitley,holdout,-1,Known status; no Operational record
+612,IN|warrick,train,3,Known status; no Operational record
+614,IA|black hawk,train,0,Operational record
+615,IA|boone,train,1,Known status; no Operational record
+616,IA|clinton,train,2,Known status; no Operational record
+617,IA|des moines,train,2,Operational record
+618,IA|dickinson,train,3,Known status; no Operational record
+619,IA|dubuque,train,4,Operational record
+620,IA|jasper,train,1,Known status; no Operational record
+621,IA|woodbury,train,2,Known status; no Operational record
+622,IA|marion,holdout,-1,Known status; no Operational record
+623,IA|winnebago,holdout,-1,Operational record
+624,IA|polk,train,3,Operational record
+625,IA|poweshiek,holdout,-1,Known status; no Operational record
+626,IA|marshall,train,1,Known status; no Operational record
+627,IA|sioux,train,2,Known status; no Operational record
+628,IA|wapello,train,4,Known status; no Operational record
+629,IA|van buren,train,4,Known status; no Operational record
+630,IA|lee,train,1,Known status; no Operational record
+631,IA|linn,train,3,Operational record
+632,IA|linn,train,3,Known status; no Operational record
+633,IA|muscatine,train,2,Known status; no Operational record
+634,IA|scott,holdout,-1,Known status; no Operational record
+635,KS|saline,holdout,-1,Known status; no Operational record
+636,KS|sedgwick,holdout,-1,Known status; no Operational record
+637,KS|butler,holdout,-1,Known status; no Operational record
+638,KS|cherokee,train,4,Known status; no Operational record
+639,KS|johnson,train,0,Known status; no Operational record
+640,KS|johnson,train,0,Operational record
+641,KS|mcpherson,train,1,Known status; no Operational record
+643,KS|reno,train,1,Known status; no Operational record
+644,KS|wyandotte,train,1,Known status; no Operational record
+645,KS|allen,train,0,Operational record
+646,KS|barton,train,2,Known status; no Operational record
+648,KS|coffey,train,1,Known status; no Operational record
+649,KS|cowley,train,3,Known status; no Operational record
+650,KS|finney,train,0,Known status; no Operational record
+651,KS|ford,train,2,Known status; no Operational record
+653,KS|harvey,train,2,Known status; no Operational record
+654,KS|kiowa,train,2,Known status; no Operational record
+655,KS|mitchell,train,4,Known status; no Operational record
+656,KS|phillips,train,0,Known status; no Operational record
+657,KS|pratt,holdout,-1,Known status; no Operational record
+658,KS|rooks,train,2,Known status; no Operational record
+659,KS|russell,train,3,Known status; no Operational record
+660,KS|seward,train,4,Operational record
+661,KS|trego,train,0,Known status; no Operational record
+662,KS|wichita,train,1,Known status; no Operational record
+663,KS|crawford,train,4,Known status; no Operational record
+664,KS|jefferson,train,1,Operational record
+665,KS|marion,train,1,Known status; no Operational record
+666,KS|montgomery,train,4,Known status; no Operational record
+667,KS|shawnee,holdout,-1,Operational record
+668,KS|crawford,train,4,Operational record
+669,KY|boone,train,3,Operational record
+670,KY|trimble,train,4,Known status; no Operational record
+671,KY|boyd,train,1,Known status; no Operational record
+672,KY|greenup,holdout,-1,Operational record
+673,KY|fayette,train,3,Known status; no Operational record
+674,KY|estill,holdout,-1,Operational record
+675,KY|franklin,train,3,Operational record
+676,KY|butler,holdout,-1,Known status; no Operational record
+677,KY|mccracken,train,1,Known status; no Operational record
+678,KY|union,train,2,Known status; no Operational record
+679,KY|montgomery,train,2,Known status; no Operational record
+680,KY|barren,train,2,Operational record
+681,KY|jefferson,train,4,Operational record
+682,KY|pendleton,holdout,-1,Operational record
+683,KY|pike,holdout,-1,Known status; no Operational record
+684,KY|grant,train,0,Known status; no Operational record
+685,KY|rowan,train,3,Operational record
+686,KY|madison,train,4,Known status; no Operational record
+688,KY|laurel,holdout,-1,Known status; no Operational record
+690,KY|lincoln,holdout,-1,Known status; no Operational record
+692,KY|graves,train,1,Known status; no Operational record
+693,KY|marshall,train,0,Known status; no Operational record
+694,KY|logan,train,4,Known status; no Operational record
+695,KY|hardin,train,2,Operational record
+696,KY|ohio,train,0,Known status; no Operational record
+697,KY|christian,train,2,Known status; no Operational record
+698,KY|daviess,train,4,Known status; no Operational record
+699,KY|daviess,train,4,Known status; no Operational record
+700,LA|caddo,train,2,Operational record
+701,LA|webster,holdout,-1,Known status; no Operational record
+702,LA|union,train,2,Known status; no Operational record
+703,LA|west carroll,train,0,Known status; no Operational record
+704,LA|lincoln,train,3,Known status; no Operational record
+705,LA|de soto,train,0,Known status; no Operational record
+706,LA|ouachita,holdout,-1,Operational record
+707,LA|ouachita,holdout,-1,Known status; no Operational record
+708,LA|tensas,train,4,Known status; no Operational record
+709,LA|la salle,train,1,Known status; no Operational record
+710,LA|sabine,train,0,Known status; no Operational record
+711,LA|calcasieu,train,3,Known status; no Operational record
+712,LA|jefferson davis,holdout,-1,Operational record
+713,LA|acadia,train,1,Known status; no Operational record
+714,LA|st. landry,train,0,Operational record
+715,LA|east baton rouge,train,2,Known status; no Operational record
+716,LA|livingston,holdout,-1,Known status; no Operational record
+717,LA|tangipahoa,train,3,Known status; no Operational record
+718,LA|washington,train,0,Known status; no Operational record
+719,LA|st. tammany,train,2,Known status; no Operational record
+720,LA|ascension,train,3,Known status; no Operational record
+721,LA|orleans,train,0,Known status; no Operational record
+722,LA|vermilion,train,3,Known status; no Operational record
+723,LA|st. mary,train,1,Known status; no Operational record
+724,LA|st. james,train,3,Known status; no Operational record
+725,LA|jefferson,train,4,Operational record
+726,LA|jefferson,train,4,Known status; no Operational record
+727,LA|terrebonne,train,1,Known status; no Operational record
+728,LA|plaquemines,train,3,Known status; no Operational record
+729,LA|pointe coupee,train,4,Known status; no Operational record
+730,LA|east baton rouge,train,2,Operational record
+731,LA|orleans,train,0,Known status; no Operational record
+732,LA|jefferson,train,4,Known status; no Operational record
+733,LA|lafayette,train,4,Known status; no Operational record
+734,MD|howard,train,2,Operational record
+735,MD|anne arundel,train,1,Known status; no Operational record
+736,MD|calvert,train,2,Known status; no Operational record
+737,MD|calvert,train,2,Known status; no Operational record
+738,MD|worcester,holdout,-1,Known status; no Operational record
+739,MD|dorchester,train,0,Known status; no Operational record
+740,MD|baltimore city,holdout,-1,Known status; no Operational record
+741,MD|prince george's,train,3,Known status; no Operational record
+742,MD|cecil,holdout,-1,Known status; no Operational record
+743,MD|queen anne's,train,4,Known status; no Operational record
+744,MD|charles,holdout,-1,Known status; no Operational record
+745,MD|baltimore,train,2,Operational record
+747,MD|anne arundel,train,1,Known status; no Operational record
+748,MD|montgomery,train,2,Known status; no Operational record
+749,MD|washington,holdout,-1,Known status; no Operational record
+750,MD|harford,train,1,Known status; no Operational record
+751,MD|caroline,train,3,Known status; no Operational record
+752,MD|carroll,train,4,Known status; no Operational record
+753,MD|talbot,holdout,-1,Operational record
+754,MD|anne arundel,train,1,Operational record
+755,MD|allegany,holdout,-1,Known status; no Operational record
+756,MD|wicomico,train,3,Operational record
+757,MD|kent,train,2,Known status; no Operational record
+758,MD|carroll,train,4,Known status; no Operational record
+759,MD|montgomery,train,2,Known status; no Operational record
+760,MD|baltimore city,holdout,-1,Known status; no Operational record
+761,MD|queen anne's,train,4,Known status; no Operational record
+762,MD|charles,holdout,-1,Known status; no Operational record
+763,MD|baltimore city,holdout,-1,Operational record
+764,MD|frederick,train,1,Known status; no Operational record
+765,MD|washington,holdout,-1,Known status; no Operational record
+766,MD|garrett,train,4,Known status; no Operational record
+767,MD|st. mary's,holdout,-1,Known status; no Operational record
+768,MD|prince george's,train,3,Operational record
+769,MD|worcester,holdout,-1,Known status; no Operational record
+770,MD|anne arundel,train,1,Known status; no Operational record
+772,MD|somerset,train,1,Known status; no Operational record
+773,MA|worcester,train,0,Known status; no Operational record
+774,MA|barnstable,holdout,-1,Known status; no Operational record
+775,MA|hampden,holdout,-1,Operational record
+776,MA|plymouth,train,3,Known status; no Operational record
+777,MA|plymouth,train,3,Known status; no Operational record
+778,MA|bristol,train,1,Known status; no Operational record
+779,MA|hampshire,holdout,-1,Operational record
+780,MA|middlesex,train,1,Known status; no Operational record
+781,MA|plymouth,train,3,Known status; no Operational record
+783,MA|hampden,holdout,-1,Known status; no Operational record
+784,MA|essex,train,4,Known status; no Operational record
+785,MA|norfolk,holdout,-1,Operational record
+786,MA|bristol,train,1,Operational record
+787,MA|worcester,train,0,Operational record
+788,MA|bristol,train,1,Operational record
+789,MA|hampshire,holdout,-1,Known status; no Operational record
+790,MA|nantucket,train,2,Known status; no Operational record
+791,MA|bristol,train,1,Known status; no Operational record
+792,MA|norfolk,holdout,-1,Known status; no Operational record
+793,MA|hampden,holdout,-1,Known status; no Operational record
+794,MA|bristol,train,1,Known status; no Operational record
+795,MA|barnstable,holdout,-1,Known status; no Operational record
+796,MA|hampden,holdout,-1,Known status; no Operational record
+797,MA|plymouth,train,3,Known status; no Operational record
+798,MA|worcester,train,0,Known status; no Operational record
+799,MA|plymouth,train,3,Known status; no Operational record
+800,MA|middlesex,train,1,Known status; no Operational record
+801,MA|middlesex,train,1,Known status; no Operational record
+802,MA|worcester,train,0,Known status; no Operational record
+803,MA|barnstable,holdout,-1,Known status; no Operational record
+804,MN|dakota,train,3,Known status; no Operational record
+805,MN|scott,train,3,Known status; no Operational record
+806,MN|roseau,train,2,Known status; no Operational record
+807,MN|hennepin,train,1,Known status; no Operational record
+808,MN|freeborn,train,0,Known status; no Operational record
+809,MN|anoka,train,3,Known status; no Operational record
+810,MN|blue earth,train,0,Known status; no Operational record
+811,MN|brown,holdout,-1,Known status; no Operational record
+812,MN|dakota,train,3,Known status; no Operational record
+813,MN|clay,train,0,Operational record
+814,MN|crow wing,train,2,Operational record
+815,MN|kanabec,train,2,Operational record
+816,MN|sherburne,holdout,-1,Known status; no Operational record
+817,MN|wright,holdout,-1,Known status; no Operational record
+818,MN|kandiyohi,train,3,Known status; no Operational record
+819,MN|lyon,train,4,Known status; no Operational record
+820,MN|dakota,train,3,Operational record
+821,MN|polk,holdout,-1,Known status; no Operational record
+822,MN|rice,train,0,Known status; no Operational record
+823,MN|steele,holdout,-1,Known status; no Operational record
+824,MN|st. louis,train,1,Known status; no Operational record
+826,MN|hennepin,train,1,Known status; no Operational record
+827,MO|wright,train,0,Operational record
+828,MO|butler,train,1,Known status; no Operational record
+829,MO|pettis,train,2,Known status; no Operational record
+830,MO|boone,holdout,-1,Operational record
+832,MO|st. louis,train,2,Operational record
+833,MO|johnson,train,0,Known status; no Operational record
+834,MO|barton,train,0,Operational record
+835,MO|cole,holdout,-1,Operational record
+836,MO|jackson,holdout,-1,Known status; no Operational record
+838,MO|stoddard,train,4,Known status; no Operational record
+839,MO|franklin,train,3,Known status; no Operational record
+840,MO|newton,train,1,Known status; no Operational record
+841,MO|franklin,train,3,Known status; no Operational record
+842,MO|stone,holdout,-1,Known status; no Operational record
+843,MO|lewis,train,4,Known status; no Operational record
+844,MO|johnson,train,0,Known status; no Operational record
+845,MO|jackson,holdout,-1,Known status; no Operational record
+846,MO|greene,train,4,Operational record
+847,MO|buchanan,holdout,-1,Operational record
+848,MO|st. louis,train,2,Known status; no Operational record
+849,MO|washington,train,1,Known status; no Operational record
+850,MO|st. louis,train,2,Known status; no Operational record
+851,MO|st. louis,train,2,Known status; no Operational record
+852,MO|jackson,holdout,-1,Known status; no Operational record
+853,MO|vernon,train,0,Known status; no Operational record
+854,MO|cass,train,0,Known status; no Operational record
+855,MO|atchison,train,3,Known status; no Operational record
+856,MO|cooper,train,4,Known status; no Operational record
+857,MO|cape girardeau,train,3,Known status; no Operational record
+858,MO|boone,holdout,-1,Known status; no Operational record
+859,MO|madison,train,1,Known status; no Operational record
+860,MO|crawford,train,3,Known status; no Operational record
+861,MO|camden,train,1,Known status; no Operational record
+862,MO|livingston,train,0,Known status; no Operational record
+863,MO|callaway,train,2,Operational record
+864,MO|gasconade,train,4,Known status; no Operational record
+865,MO|franklin,train,3,Known status; no Operational record
+866,MO|ralls,train,1,Known status; no Operational record
+867,MO|grundy,train,2,Known status; no Operational record
+868,MO|henry,train,3,Known status; no Operational record
+869,MO|gasconade,train,4,Known status; no Operational record
+870,MO|cape girardeau,train,3,Known status; no Operational record
+871,MO|gasconade,train,4,Known status; no Operational record
+873,MO|saline,train,2,Known status; no Operational record
+874,MO|nodaway,train,2,Known status; no Operational record
+875,MO|audrain,holdout,-1,Known status; no Operational record
+876,MO|randolph,holdout,-1,Known status; no Operational record
+877,MO|montgomery,train,3,Known status; no Operational record
+878,MO|audrain,holdout,-1,Known status; no Operational record
+879,MO|vernon,train,0,Known status; no Operational record
+880,MO|new madrid,train,0,Known status; no Operational record
+881,MO|camden,train,1,Known status; no Operational record
+882,MO|pemiscot,train,3,Known status; no Operational record
+883,MO|perry,train,4,Known status; no Operational record
+884,MO|phelps,train,4,Known status; no Operational record
+885,MO|adair,train,1,Known status; no Operational record
+886,MO|dent,train,1,Known status; no Operational record
+887,MO|andrew,train,2,Known status; no Operational record
+888,MO|st. francois,train,1,Known status; no Operational record
+889,MO|new madrid,train,0,Known status; no Operational record
+890,MO|pike,holdout,-1,Operational record
+891,MO|lawrence,train,3,Known status; no Operational record
+892,MO|macon,train,3,Known status; no Operational record
+893,MO|iron,train,0,Known status; no Operational record
+894,MO|reynolds,holdout,-1,Known status; no Operational record
+895,MO|franklin,train,3,Known status; no Operational record
+896,MO|maries,train,2,Known status; no Operational record
+897,MO|wayne,train,0,Known status; no Operational record
+898,MO|bates,train,4,Known status; no Operational record
+899,MO|howell,train,0,Known status; no Operational record
+900,MO|howell,train,0,Known status; no Operational record
+901,MO|pulaski,holdout,-1,Known status; no Operational record
+902,MO|camden,train,1,Known status; no Operational record
+903,MO|carroll,train,2,Known status; no Operational record
+904,MO|carroll,train,2,Known status; no Operational record
+905,MO|ripley,train,3,Known status; no Operational record
+906,MO|jackson,holdout,-1,Known status; no Operational record
+907,MO|jasper,train,2,Known status; no Operational record
+908,MO|warren,train,4,Known status; no Operational record
+909,MO|pulaski,holdout,-1,Known status; no Operational record
+911,MO|stoddard,train,4,Known status; no Operational record
+912,MO|macon,train,3,Known status; no Operational record
+918,MO|douglas,train,2,Known status; no Operational record
+920,MO|scott,train,1,Known status; no Operational record
+922,MO|morgan,train,4,Known status; no Operational record
+923,MO|jackson,holdout,-1,Known status; no Operational record
+924,MO|pettis,train,2,Known status; no Operational record
+928,MO|webster,train,2,Known status; no Operational record
+929,MO|jackson,holdout,-1,Operational record
+930,NV|clark,train,4,Operational record
+931,NV|storey,train,0,Operational record
+932,NV|elko,holdout,-1,Known status; no Operational record
+933,NV|humboldt,train,2,Known status; no Operational record
+934,NV|nye,train,3,Known status; no Operational record
+935,NV|carson city,train,1,Known status; no Operational record
+936,NV|clark,train,4,Known status; no Operational record
+937,NJ|atlantic,train,4,Known status; no Operational record
+939,NJ|burlington,holdout,-1,Known status; no Operational record
+940,NJ|burlington,holdout,-1,Operational record
+941,NJ|cape may,holdout,-1,Operational record
+942,NJ|cumberland,train,1,Operational record
+943,NJ|gloucester,holdout,-1,Known status; no Operational record
+944,NJ|hudson,holdout,-1,Known status; no Operational record
+945,NJ|middlesex,train,1,Operational record
+946,NJ|middlesex,train,1,Operational record
+947,NJ|monmouth,train,0,Known status; no Operational record
+948,NJ|salem,train,0,Operational record
+949,NJ|sussex,train,3,Known status; no Operational record
+950,NJ|union,train,2,Known status; no Operational record
+951,NJ|ocean,train,4,Operational record
+952,NJ|camden,holdout,-1,Operational record
+953,NJ|warren,train,0,Known status; no Operational record
+954,NJ|morris,train,1,Known status; no Operational record
+956,NY|suffolk,holdout,-1,Known status; no Operational record
+957,NJ|gloucester,holdout,-1,Known status; no Operational record
+958,NJ|middlesex,train,1,Operational record
+959,NJ|hudson,holdout,-1,Known status; no Operational record
+960,NJ|sussex,train,3,Known status; no Operational record
+961,NJ|burlington,holdout,-1,Known status; no Operational record
+962,NJ|bergen,train,3,Known status; no Operational record
+963,NJ|hudson,holdout,-1,Known status; no Operational record
+964,NJ|bergen,train,3,Known status; no Operational record
+965,NY|orange,train,4,Known status; no Operational record
+966,NY|richmond,train,3,Known status; no Operational record
+967,NY|suffolk,holdout,-1,Known status; no Operational record
+968,NY|orange,train,4,Known status; no Operational record
+969,NY|herkimer,train,3,Known status; no Operational record
+970,NY|nassau,train,1,Known status; no Operational record
+971,NY|livingston,train,0,Known status; no Operational record
+972,NY|monroe,train,3,Operational record
+973,NY|nassau,train,1,Known status; no Operational record
+974,NY|onondaga,train,0,Known status; no Operational record
+975,NY|suffolk,holdout,-1,Known status; no Operational record
+976,NY|erie,train,3,Known status; no Operational record
+977,NY|suffolk,holdout,-1,Known status; no Operational record
+978,NY|suffolk,holdout,-1,Known status; no Operational record
+979,NY|suffolk,holdout,-1,Known status; no Operational record
+980,NY|suffolk,holdout,-1,Operational record
+981,NY|seneca,train,0,Operational record
+982,NY|steuben,train,1,Operational record
+983,NY|delaware,train,1,Known status; no Operational record
+984,NY|fulton,train,1,Operational record
+985,NY|albany,train,1,Operational record
+986,NY|chemung,train,2,Known status; no Operational record
+987,NY|erie,train,3,Operational record
+988,NY|albany,train,1,Operational record
+989,NY|jefferson,train,3,Operational record
+990,NY|chautauqua,holdout,-1,Operational record
+991,NY|rockland,train,4,Known status; no Operational record
+992,NY|monroe,train,3,Operational record
+993,NY|niagara,train,4,Operational record
+994,NY|oswego,train,3,Known status; no Operational record
+995,NY|sullivan,train,3,Known status; no Operational record
+996,NY|broome,train,1,Operational record
+997,NY|allegany,train,0,Known status; no Operational record
+999,NY|clinton,holdout,-1,Operational record
+1000,NY|nassau,train,1,Known status; no Operational record
+1001,NY|niagara,train,4,Known status; no Operational record
+1002,NY|erie,train,3,Known status; no Operational record
+1003,NY|wyoming,train,2,Known status; no Operational record
+1005,NY|orleans,train,2,Known status; no Operational record
+1006,NY|ontario,holdout,-1,Operational record
+1009,NY|cayuga,train,3,Known status; no Operational record
+1013,NY|cortland,train,0,Known status; no Operational record
+1016,NY|tompkins,holdout,-1,Known status; no Operational record
+1017,NY|onondaga,train,0,Known status; no Operational record
+1019,NY|onondaga,train,0,Known status; no Operational record
+1020,NY|onondaga,train,0,Known status; no Operational record
+1021,NY|onondaga,train,0,Known status; no Operational record
+1023,NY|jefferson,train,3,Known status; no Operational record
+1024,NY|saratoga,train,2,Known status; no Operational record
+1025,NY|saratoga,train,2,Known status; no Operational record
+1026,NY|saratoga,train,2,Known status; no Operational record
+1027,NY|saratoga,train,2,Operational record
+1028,NY|essex,train,2,Known status; no Operational record
+1029,NY|warren,train,4,Known status; no Operational record
+1030,NY|rensselaer,train,0,Operational record
+1031,NY|sullivan,train,3,Known status; no Operational record
+1032,NY|ulster,holdout,-1,Known status; no Operational record
+1033,NY|ulster,holdout,-1,Known status; no Operational record
+1034,NY|putnam,train,2,Known status; no Operational record
+1035,NY|queens,train,4,Known status; no Operational record
+1036,NY|suffolk,holdout,-1,Known status; no Operational record
+1038,NY|montgomery,holdout,-1,Known status; no Operational record
+1039,NY|ulster,holdout,-1,Known status; no Operational record
+1040,NC|alamance,train,3,Known status; no Operational record
+1041,NC|alexander,holdout,-1,Known status; no Operational record
+1042,NC|alleghany,train,4,Known status; no Operational record
+1043,NC|harnett,train,1,Known status; no Operational record
+1044,NC|anson,train,3,Known status; no Operational record
+1045,NC|ashe,train,0,Known status; no Operational record
+1046,NC|alamance,train,3,Known status; no Operational record
+1047,NC|avery,train,1,Known status; no Operational record
+1048,NC|beaufort,train,0,Known status; no Operational record
+1049,NC|bertie,train,2,Known status; no Operational record
+1050,NC|bladen,train,2,Known status; no Operational record
+1051,NC|brunswick,train,4,Known status; no Operational record
+1052,NC|buncombe,holdout,-1,Known status; no Operational record
+1055,NC|caldwell,holdout,-1,Known status; no Operational record
+1056,NC|haywood,train,2,Known status; no Operational record
+1057,NC|carteret,train,4,Known status; no Operational record
+1058,NC|caswell,holdout,-1,Known status; no Operational record
+1059,NC|catawba,train,0,Known status; no Operational record
+1060,NC|chatham,train,2,Known status; no Operational record
+1061,NC|cherokee,train,3,Known status; no Operational record
+1062,NC|stanly,train,4,Known status; no Operational record
+1063,NC|durham,train,2,Operational record
+1064,NC|guilford,holdout,-1,Operational record
+1065,NC|guilford,holdout,-1,Known status; no Operational record
+1066,NC|wake,train,0,Known status; no Operational record
+1067,NC|forsyth,holdout,-1,Operational record
+1068,NC|clay,train,3,Known status; no Operational record
+1069,NC|cleveland,holdout,-1,Known status; no Operational record
+1070,NC|rutherford,holdout,-1,Known status; no Operational record
+1071,NC|cabarrus,train,1,Operational record
+1072,NC|columbus,train,1,Operational record
+1073,NC|craven,train,0,Known status; no Operational record
+1074,NC|craven,train,0,Operational record
+1075,NC|cumberland,train,2,Operational record
+1076,NC|currituck,train,3,Known status; no Operational record
+1077,NC|davidson,train,3,Operational record
+1078,NC|davie,train,0,Known status; no Operational record
+1079,NC|duplin,train,1,Known status; no Operational record
+1080,NC|bertie,train,2,Known status; no Operational record
+1081,NC|dare,holdout,-1,Known status; no Operational record
+1082,NC|edgecombe,train,4,Operational record
+1083,NC|franklin,holdout,-1,Known status; no Operational record
+1084,NC|gaston,train,3,Operational record
+1085,NC|graham,train,4,Known status; no Operational record
+1086,NC|granville,train,3,Known status; no Operational record
+1088,NC|greene,train,0,Known status; no Operational record
+1090,NC|harnett,train,1,Known status; no Operational record
+1091,NC|haywood,train,2,Known status; no Operational record
+1092,NC|haywood,train,2,Known status; no Operational record
+1093,NC|henderson,train,0,Known status; no Operational record
+1094,NC|hertford,holdout,-1,Known status; no Operational record
+1095,NC|guilford,holdout,-1,Known status; no Operational record
+1097,NC|hoke,train,4,Known status; no Operational record
+1098,NC|iredell,holdout,-1,Operational record
+1099,NC|jackson,train,0,Operational record
+1100,NC|johnston,train,1,Operational record
+1102,NC|lee,train,2,Known status; no Operational record
+1103,NC|lenoir,train,0,Known status; no Operational record
+1104,NC|lincoln,train,2,Known status; no Operational record
+1105,NC|macon,train,4,Known status; no Operational record
+1107,NC|madison,train,3,Known status; no Operational record
+1108,NC|mcdowell,train,0,Known status; no Operational record
+1109,NC|mecklenburg,train,1,Known status; no Operational record
+1110,NC|montgomery,holdout,-1,Operational record
+1111,NC|moore,train,0,Known status; no Operational record
+1112,NC|nash,train,1,Known status; no Operational record
+1113,NC|new hanover,train,2,Known status; no Operational record
+1114,NC|northampton,train,3,Known status; no Operational record
+1116,NC|orange,train,4,Known status; no Operational record
+1117,NC|pamlico,holdout,-1,Known status; no Operational record
+1118,NC|pasquotank,holdout,-1,Known status; no Operational record
+1119,NC|pender,train,2,Known status; no Operational record
+1120,NC|perquimans,train,0,Known status; no Operational record
+1121,NC|forsyth,holdout,-1,Operational record
+1122,NC|pitt,train,1,Known status; no Operational record
+1123,NC|polk,train,1,Known status; no Operational record
+1124,NC|randolph,holdout,-1,Known status; no Operational record
+1125,NC|richmond,train,0,Known status; no Operational record
+1126,NC|wilkes,train,1,Known status; no Operational record
+1127,NC|robeson,train,3,Operational record
+1129,NC|rowan,train,4,Known status; no Operational record
+1130,NC|person,holdout,-1,Known status; no Operational record
+1131,NC|rutherford,holdout,-1,Known status; no Operational record
+1132,NC|sampson,train,1,Operational record
+1133,NC|scotland,train,2,Known status; no Operational record
+1134,NC|wake,train,0,Known status; no Operational record
+1135,NC|stokes,train,0,Known status; no Operational record
+1137,NC|surry,train,1,Known status; no Operational record
+1138,NC|swain,train,3,Known status; no Operational record
+1141,NC|transylvania,train,0,Known status; no Operational record
+1142,NC|union,train,2,Known status; no Operational record
+1143,NC|cumberland,train,2,Known status; no Operational record
+1145,NC|vance,train,2,Known status; no Operational record
+1146,NC|wake,train,0,Known status; no Operational record
+1148,NC|warren,holdout,-1,Known status; no Operational record
+1150,NC|wayne,train,4,Operational record
+1151,NC|jackson,train,0,Known status; no Operational record
+1152,NC|wilkes,train,1,Known status; no Operational record
+1153,NC|wilson,holdout,-1,Known status; no Operational record
+1154,NC|yancey,holdout,-1,Known status; no Operational record
+1155,NC|madison,train,3,Known status; no Operational record
+1156,NC|wilkes,train,1,Known status; no Operational record
+1157,NC|wake,train,0,Known status; no Operational record
+1158,OH|ashland,train,0,Known status; no Operational record
+1159,OH|ashtabula,holdout,-1,Operational record
+1161,OH|athens,train,4,Known status; no Operational record
+1162,OH|auglaize,train,3,Known status; no Operational record
+1163,OH|brown,train,3,Operational record
+1164,OH|clark,train,4,Known status; no Operational record
+1165,OH|columbiana,train,3,Known status; no Operational record
+1166,OH|crawford,holdout,-1,Known status; no Operational record
+1167,OH|cuyahoga,holdout,-1,Known status; no Operational record
+1168,OH|cuyahoga,holdout,-1,Known status; no Operational record
+1169,OH|cuyahoga,holdout,-1,Known status; no Operational record
+1170,OH|cuyahoga,holdout,-1,Known status; no Operational record
+1172,OH|erie,train,1,Operational record
+1174,OH|franklin,holdout,-1,Known status; no Operational record
+1175,OH|franklin,holdout,-1,Operational record
+1176,OH|gallia,holdout,-1,Known status; no Operational record
+1177,OH|hamilton,train,2,Operational record
+1178,OH|hamilton,train,2,Known status; no Operational record
+1179,OH|hancock,train,4,Operational record
+1180,OH|henry,train,0,Known status; no Operational record
+1181,OH|holmes,train,2,Known status; no Operational record
+1184,OH|logan,train,2,Known status; no Operational record
+1186,OH|lucas,train,3,Known status; no Operational record
+1187,OH|mahoning,train,4,Operational record
+1189,OH|ottawa,train,0,Known status; no Operational record
+1190,OH|pike,train,3,Known status; no Operational record
+1191,OH|portage,train,4,Known status; no Operational record
+1192,OH|preble,train,3,Known status; no Operational record
+1194,OH|ross,train,4,Known status; no Operational record
+1195,OH|stark,holdout,-1,Operational record
+1196,OH|stark,holdout,-1,Known status; no Operational record
+1197,OH|summit,holdout,-1,Known status; no Operational record
+1198,OH|tuscarawas,holdout,-1,Known status; no Operational record
+1199,OH|warren,train,0,Known status; no Operational record
+1200,OH|wayne,train,0,Known status; no Operational record
+1201,OH|williams,train,1,Known status; no Operational record
+1202,OH|wood,holdout,-1,Known status; no Operational record
+1203,OH|wood,holdout,-1,Known status; no Operational record
+1204,OH|wyandot,train,2,Known status; no Operational record
+1205,OH|cuyahoga,holdout,-1,Known status; no Operational record
+1206,OH|butler,train,0,Known status; no Operational record
+1209,OH|greene,train,1,Known status; no Operational record
+1216,OH|trumbull,holdout,-1,Known status; no Operational record
+1217,OH|stark,holdout,-1,Known status; no Operational record
+1220,OK|adair,train,3,Known status; no Operational record
+1221,OK|canadian,train,1,Known status; no Operational record
+1222,OK|comanche,train,1,Known status; no Operational record
+1223,OK|garfield,train,0,Known status; no Operational record
+1224,OK|mcclain,train,4,Known status; no Operational record
+1225,OK|carter,train,4,Operational record
+1226,OK|oklahoma,train,0,Operational record
+1227,OK|oklahoma,train,0,Operational record
+1228,OK|wagoner,train,4,Known status; no Operational record
+1229,OK|wagoner,train,4,Known status; no Operational record
+1231,OK|grady,train,2,Known status; no Operational record
+1232,OK|pottawatomie,train,0,Known status; no Operational record
+1233,OK|pottawatomie,train,0,Known status; no Operational record
+1234,OK|muskogee,train,1,Known status; no Operational record
+1235,OK|woodward,train,0,Known status; no Operational record
+1236,OK|tulsa,train,3,Known status; no Operational record
+1238,OR|deschutes,train,2,Known status; no Operational record
+1239,OR|klamath,train,3,Known status; no Operational record
+1240,OR|wasco,train,2,Known status; no Operational record
+1241,OR|gilliam,train,3,Operational record
+1242,OR|morrow,holdout,-1,Operational record
+1243,OR|umatilla,train,1,Known status; no Operational record
+1244,OR|umatilla,train,1,Known status; no Operational record
+1245,OR|douglas,train,2,Operational record
+1246,OR|benton,train,1,Operational record
+1247,OR|lane,train,4,Operational record
+1248,OR|yamhill,holdout,-1,Operational record
+1249,PA|bucks,train,0,Known status; no Operational record
+1250,PA|chester,train,4,Operational record
+1251,PA|montgomery,train,4,Known status; no Operational record
+1252,PA|bucks,train,0,Operational record
+1253,PA|northampton,train,1,Known status; no Operational record
+1254,PA|lackawanna,train,3,Operational record
+1255,PA|northampton,train,1,Operational record
+1256,PA|lackawanna,train,3,Operational record
+1257,PA|schuylkill,holdout,-1,Operational record
+1258,PA|bedford,train,1,Known status; no Operational record
+1259,PA|franklin,train,3,Operational record
+1260,PA|cumberland,train,4,Operational record
+1261,PA|berks,train,3,Known status; no Operational record
+1262,PA|berks,train,3,Operational record
+1263,PA|berks,train,3,Operational record
+1264,PA|dauphin,train,2,Known status; no Operational record
+1265,PA|lebanon,train,1,Operational record
+1266,PA|berks,train,3,Operational record
+1267,PA|mifflin,train,2,Known status; no Operational record
+1268,PA|york,train,0,Known status; no Operational record
+1269,PA|berks,train,3,Operational record
+1270,PA|franklin,train,3,Operational record
+1271,PA|berks,train,3,Known status; no Operational record
+1272,PA|york,train,0,Known status; no Operational record
+1273,PA|bradford,train,4,Operational record
+1274,PA|clinton,train,1,Operational record
+1275,PA|lycoming,holdout,-1,Operational record
+1276,PA|washington,train,0,Operational record
+1277,PA|fayette,holdout,-1,Known status; no Operational record
+1278,PA|allegheny,train,2,Operational record
+1279,PA|beaver,train,4,Operational record
+1280,PA|allegheny,train,2,Operational record
+1281,PA|indiana,train,2,Known status; no Operational record
+1282,PA|somerset,train,2,Operational record
+1283,PA|westmoreland,holdout,-1,Known status; no Operational record
+1284,PA|somerset,train,2,Operational record
+1285,PA|westmoreland,holdout,-1,Operational record
+1286,PA|cambria,train,3,Operational record
+1287,PA|westmoreland,holdout,-1,Known status; no Operational record
+1288,PA|elk,train,0,Operational record
+1289,PA|clarion,train,4,Known status; no Operational record
+1290,PA|erie,train,3,Operational record
+1291,PA|mckean,train,0,Known status; no Operational record
+1292,PA|butler,train,1,Known status; no Operational record
+1293,PA|northampton,train,1,Operational record
+1294,PA|schuylkill,holdout,-1,Operational record
+1295,PA|allegheny,train,2,Known status; no Operational record
+1297,PA|somerset,train,2,Operational record
+1298,PA|butler,train,1,Operational record
+1299,PA|cumberland,train,4,Known status; no Operational record
+1300,PA|allegheny,train,2,Known status; no Operational record
+1302,PA|perry,train,1,Known status; no Operational record
+1303,PA|berks,train,3,Known status; no Operational record
+1304,PA|franklin,train,3,Known status; no Operational record
+1306,PA|adams,holdout,-1,Known status; no Operational record
+1309,PA|armstrong,train,0,Known status; no Operational record
+1310,PA|armstrong,train,0,Known status; no Operational record
+1311,PA|cambria,train,3,Known status; no Operational record
+1314,PA|greene,holdout,-1,Known status; no Operational record
+1315,PA|greene,holdout,-1,Known status; no Operational record
+1316,PA|indiana,train,2,Known status; no Operational record
+1318,PA|westmoreland,holdout,-1,Known status; no Operational record
+1321,PA|westmoreland,holdout,-1,Known status; no Operational record
+1322,PA|montgomery,train,4,Known status; no Operational record
+1323,PA|lackawanna,train,3,Known status; no Operational record
+1325,PA|adams,holdout,-1,Known status; no Operational record
+1326,TN|blount,holdout,-1,Known status; no Operational record
+1327,TN|shelby,train,3,Operational record
+1328,TN|obion,train,2,Known status; no Operational record
+1330,TN|shelby,train,3,Operational record
+1331,TN|shelby,train,3,Known status; no Operational record
+1332,TN|montgomery,train,2,Operational record
+1333,TN|cheatham,holdout,-1,Known status; no Operational record
+1334,TN|hardeman,train,0,Known status; no Operational record
+1335,TN|hardeman,train,0,Known status; no Operational record
+1336,TN|davidson,train,0,Known status; no Operational record
+1337,TN|bradley,train,4,Operational record
+1338,TN|haywood,train,3,Known status; no Operational record
+1339,TN|unicoi,holdout,-1,Known status; no Operational record
+1340,TN|carter,train,4,Known status; no Operational record
+1341,TN|smith,holdout,-1,Known status; no Operational record
+1342,TN|wilson,train,4,Known status; no Operational record
+1343,TN|marshall,train,3,Known status; no Operational record
+1344,TN|cheatham,holdout,-1,Known status; no Operational record
+1345,TN|chester,train,2,Known status; no Operational record
+1346,TN|anderson,train,1,Known status; no Operational record
+1347,TN|claiborne,holdout,-1,Known status; no Operational record
+1348,TN|clay,train,1,Known status; no Operational record
+1350,TN|cocke,train,3,Known status; no Operational record
+1351,TN|coffee,train,2,Known status; no Operational record
+1352,TN|cumberland,train,2,Known status; no Operational record
+1353,TN|cumberland,train,2,Known status; no Operational record
+1354,TN|robertson,train,2,Known status; no Operational record
+1355,TN|rhea,train,4,Known status; no Operational record
+1356,TN|decatur,train,3,Known status; no Operational record
+1358,TN|dekalb,train,2,Known status; no Operational record
+1360,TN|gibson,train,2,Known status; no Operational record
+1361,TN|dyer,holdout,-1,Known status; no Operational record
+1364,TN|henry,train,1,Known status; no Operational record
+1365,TN|fayette,train,3,Known status; no Operational record
+1367,TN|lincoln,train,1,Known status; no Operational record
+1368,TN|fentress,train,0,Known status; no Operational record
+1369,TN|montgomery,train,2,Known status; no Operational record
+1370,TN|sevier,holdout,-1,Known status; no Operational record
+1371,TN|franklin,train,1,Known status; no Operational record
+1372,TN|grainger,train,1,Known status; no Operational record
+1373,TN|obion,train,2,Known status; no Operational record
+1374,TN|grundy,train,4,Known status; no Operational record
+1375,TN|hamblen,train,0,Known status; no Operational record
+1376,TN|hamilton,train,4,Known status; no Operational record
+1377,TN|hancock,train,4,Known status; no Operational record
+1378,TN|trousdale,train,1,Known status; no Operational record
+1379,TN|haywood,train,3,Known status; no Operational record
+1380,TN|henderson,holdout,-1,Known status; no Operational record
+1381,TN|hickman,train,0,Known status; no Operational record
+1382,TN|lewis,train,2,Known status; no Operational record
+1383,TN|houston,holdout,-1,Known status; no Operational record
+1384,TN|gibson,train,2,Known status; no Operational record
+1385,TN|humphreys,train,2,Known status; no Operational record
+1386,TN|carroll,holdout,-1,Known status; no Operational record
+1387,TN|benton,train,3,Operational record
+1388,TN|washington,train,4,Operational record
+1389,TN|madison,train,1,Known status; no Operational record
+1390,TN|jefferson,train,3,Known status; no Operational record
+1391,TN|dyer,holdout,-1,Known status; no Operational record
+1392,TN|obion,train,2,Known status; no Operational record
+1393,TN|obion,train,2,Known status; no Operational record
+1394,TN|washington,train,4,Known status; no Operational record
+1395,TN|johnson,train,3,Known status; no Operational record
+1396,TN|lauderdale,holdout,-1,Known status; no Operational record
+1397,TN|lawrence,train,4,Known status; no Operational record
+1398,TN|marshall,train,3,Known status; no Operational record
+1399,TN|henderson,holdout,-1,Known status; no Operational record
+1400,TN|loudon,train,4,Known status; no Operational record
+1402,TN|marion,train,2,Known status; no Operational record
+1403,TN|weakley,train,0,Known status; no Operational record
+1404,TN|maury,holdout,-1,Known status; no Operational record
+1405,TN|carroll,holdout,-1,Known status; no Operational record
+1406,TN|mcminn,train,4,Known status; no Operational record
+1407,TN|warren,train,2,Known status; no Operational record
+1408,TN|mcnairy,holdout,-1,Known status; no Operational record
+1409,TN|carroll,holdout,-1,Known status; no Operational record
+1410,TN|gibson,train,2,Known status; no Operational record
+1411,TN|mcminn,train,4,Operational record
+1412,TN|monroe,train,0,Known status; no Operational record
+1413,TN|morgan,train,1,Known status; no Operational record
+1414,TN|dyer,holdout,-1,Known status; no Operational record
+1415,TN|rutherford,holdout,-1,Known status; no Operational record
+1416,TN|overton,train,4,Known status; no Operational record
+1417,TN|henry,train,1,Known status; no Operational record
+1418,TN|perry,train,3,Known status; no Operational record
+1419,TN|pickett,train,0,Known status; no Operational record
+1420,TN|giles,train,0,Known status; no Operational record
+1421,TN|putnam,train,1,Known status; no Operational record
+1422,TN|bedford,train,2,Known status; no Operational record
+1423,TN|macon,holdout,-1,Known status; no Operational record
+1425,TN|rhea,train,4,Known status; no Operational record
+1426,TN|roane,holdout,-1,Known status; no Operational record
+1427,TN|robertson,train,2,Known status; no Operational record
+1428,TN|rutherford,holdout,-1,Known status; no Operational record
+1429,TN|hardin,train,1,Known status; no Operational record
+1430,TN|scott,train,4,Known status; no Operational record
+1431,TN|bledsoe,holdout,-1,Known status; no Operational record
+1432,TN|sevier,holdout,-1,Known status; no Operational record
+1433,TN|shelby,train,3,Known status; no Operational record
+1434,TN|smith,holdout,-1,Known status; no Operational record
+1435,TN|obion,train,2,Known status; no Operational record
+1436,TN|sullivan,train,0,Known status; no Operational record
+1437,TN|hamilton,train,4,Known status; no Operational record
+1438,TN|tipton,train,0,Known status; no Operational record
+1439,TN|weakley,train,0,Known status; no Operational record
+1440,TN|knox,holdout,-1,Known status; no Operational record
+1441,TN|union,train,4,Known status; no Operational record
+1442,TN|clay,train,1,Known status; no Operational record
+1444,TN|van buren,train,0,Known status; no Operational record
+1446,TN|weakley,train,0,Known status; no Operational record
+1447,TN|white,train,3,Known status; no Operational record
+1448,TN|williamson,train,1,Known status; no Operational record
+1449,TN|wilson,train,4,Known status; no Operational record
+1450,TN|greene,train,3,Known status; no Operational record
+1451,TN|weakley,train,0,Known status; no Operational record
+1452,TN|hawkins,train,2,Operational record
+1453,TN|hawkins,train,2,Known status; no Operational record
+1455,TN|macon,holdout,-1,Known status; no Operational record
+1456,TX|dallas,train,2,Operational record
+1457,TX|collin,train,1,Known status; no Operational record
+1458,TX|collin,train,1,Known status; no Operational record
+1459,TX|dallas,train,2,Operational record
+1460,TX|montgomery,holdout,-1,Known status; no Operational record
+1461,TX|denton,train,3,Operational record
+1462,TX|tarrant,holdout,-1,Known status; no Operational record
+1463,TX|tarrant,holdout,-1,Known status; no Operational record
+1464,TX|travis,train,4,Operational record
+1465,TX|harris,train,2,Operational record
+1466,TX|bell,train,3,Known status; no Operational record
+1467,TX|tarrant,holdout,-1,Operational record
+1468,TX|travis,train,4,Known status; no Operational record
+1469,TX|nueces,train,1,Operational record
+1470,TX|collin,train,1,Known status; no Operational record
+1471,TX|el paso,holdout,-1,Known status; no Operational record
+1472,TX|gregg,holdout,-1,Operational record
+1473,TX|mclennan,train,0,Known status; no Operational record
+1474,TX|lubbock,train,3,Known status; no Operational record
+1475,TX|dallas,train,2,Known status; no Operational record
+1477,TX|jefferson,holdout,-1,Known status; no Operational record
+1478,TX|ellis,train,4,Known status; no Operational record
+1479,TX|harris,train,2,Operational record
+1480,TX|denton,train,3,Operational record
+1481,TX|wichita,train,1,Known status; no Operational record
+1485,TX|johnson,train,0,Operational record
+1488,TX|waller,holdout,-1,Known status; no Operational record
+1489,TX|travis,train,4,Known status; no Operational record
+1490,TX|jones,holdout,-1,Known status; no Operational record
+1491,TX|el paso,holdout,-1,Known status; no Operational record
+1492,TX|jefferson,holdout,-1,Known status; no Operational record
+1494,TX|colorado,train,1,Known status; no Operational record
+1497,TX|brazoria,holdout,-1,Operational record
+1498,TX|midland,train,1,Known status; no Operational record
+1499,TX|mclennan,train,0,Known status; no Operational record
+1501,TX|webb,train,0,Known status; no Operational record
+1503,TX|smith,train,3,Operational record
+1505,TX|montgomery,holdout,-1,Operational record
+1509,TX|bexar,train,4,Operational record
+1511,TX|travis,train,4,Known status; no Operational record
+1513,TX|taylor,train,2,Known status; no Operational record
+1514,TX|lubbock,train,3,Known status; no Operational record
+1516,TX|navarro,train,2,Known status; no Operational record
+1517,TX|gray,holdout,-1,Known status; no Operational record
+1518,TX|colorado,train,1,Known status; no Operational record
+1519,TX|tarrant,holdout,-1,Operational record
+1520,TX|harris,train,2,Known status; no Operational record
+1521,UT|box elder,train,3,Known status; no Operational record
+1522,UT|box elder,train,3,Known status; no Operational record
+1523,UT|box elder,train,3,Known status; no Operational record
+1524,UT|box elder,train,3,Known status; no Operational record
+1525,UT|box elder,train,3,Known status; no Operational record
+1526,UT|box elder,train,3,Known status; no Operational record
+1527,UT|cache,train,4,Known status; no Operational record
+1528,UT|rich,train,4,Known status; no Operational record
+1530,UT|juab,train,3,Known status; no Operational record
+1533,UT|millard,train,0,Known status; no Operational record
+1534,UT|millard,train,0,Known status; no Operational record
+1535,UT|sanpete,holdout,-1,Known status; no Operational record
+1536,UT|sevier,train,3,Known status; no Operational record
+1537,UT|utah,train,0,Known status; no Operational record
+1538,UT|utah,train,0,Known status; no Operational record
+1539,UT|utah,train,0,Known status; no Operational record
+1540,UT|davis,train,1,Known status; no Operational record
+1541,UT|davis,train,1,Operational record
+1542,UT|salt lake,train,3,Operational record
+1543,UT|salt lake,train,3,Operational record
+1544,UT|carbon,holdout,-1,Known status; no Operational record
+1545,UT|emery,holdout,-1,Known status; no Operational record
+1546,UT|emery,holdout,-1,Known status; no Operational record
+1547,UT|grand,train,2,Known status; no Operational record
+1548,UT|san juan,train,1,Known status; no Operational record
+1549,UT|san juan,train,1,Known status; no Operational record
+1550,UT|san juan,train,1,Known status; no Operational record
+1551,UT|san juan,train,1,Known status; no Operational record
+1552,UT|san juan,train,1,Known status; no Operational record
+1553,UT|beaver,train,2,Known status; no Operational record
+1554,UT|garfield,train,1,Known status; no Operational record
+1555,UT|garfield,train,1,Known status; no Operational record
+1556,UT|iron,train,3,Known status; no Operational record
+1557,UT|kane,holdout,-1,Known status; no Operational record
+1558,UT|kane,holdout,-1,Known status; no Operational record
+1559,UT|washington,train,3,Known status; no Operational record
+1560,UT|summit,train,2,Known status; no Operational record
+1561,UT|tooele,train,0,Known status; no Operational record
+1562,UT|tooele,train,0,Known status; no Operational record
+1563,UT|tooele,train,0,Known status; no Operational record
+1564,UT|daggett,train,0,Known status; no Operational record
+1566,UT|uintah,train,1,Known status; no Operational record
+1567,UT|weber,train,3,Operational record
+1568,UT|utah,train,0,Known status; no Operational record
+1569,UT|utah,train,0,Known status; no Operational record
+1570,VA|albemarle,train,4,Known status; no Operational record
+1571,VA|amelia,train,4,Operational record
+1572,VA|amelia,train,4,Known status; no Operational record
+1573,VA|bedford,train,2,Known status; no Operational record
+1574,VA|bedford,train,2,Known status; no Operational record
+1575,VA|charles city,train,4,Operational record
+1576,VA|chesterfield,train,4,Operational record
+1577,VA|chesterfield,train,4,Known status; no Operational record
+1579,VA|danville city,train,2,Known status; no Operational record
+1580,VA|fairfax,train,3,Operational record
+1581,VA|franklin,train,2,Known status; no Operational record
+1583,VA|frederick,train,4,Operational record
+1584,VA|hampton city,train,0,Operational record
+1585,VA|loudoun,train,0,Known status; no Operational record
+1586,VA|lynchburg city,train,1,Known status; no Operational record
+1587,VA|lynchburg city,train,1,Known status; no Operational record
+1588,VA|henry,train,4,Operational record
+1589,VA|newport news city,train,3,Operational record
+1591,VA|petersburg city,train,4,Known status; no Operational record
+1592,VA|prince william,train,0,Operational record
+1593,VA|roanoke,train,1,Known status; no Operational record
+1594,VA|stafford,train,2,Operational record
+1595,VA|sussex,train,0,Operational record
+1596,VA|virginia beach city,train,4,Operational record
+1597,VA|suffolk city,holdout,-1,Operational record
+1599,VA|chesterfield,train,4,Known status; no Operational record
+1600,VA|dinwiddie,train,2,Known status; no Operational record
+1601,VA|henrico,train,3,Operational record
+1602,VA|henrico,train,3,Known status; no Operational record
+1603,VA|greene,train,3,Known status; no Operational record
+1604,WA|asotin,train,3,Known status; no Operational record
+1605,WA|adams,train,2,Known status; no Operational record
+1606,WA|king,holdout,-1,Known status; no Operational record
+1607,WA|lewis,holdout,-1,Operational record
+1608,WA|yakima,train,2,Known status; no Operational record
+1609,WA|pierce,train,3,Known status; no Operational record
+1610,WA|cowlitz,train,0,Known status; no Operational record
+1611,WA|grant,train,3,Known status; no Operational record
+1612,WA|grant,train,3,Known status; no Operational record
+1613,WA|pierce,train,3,Known status; no Operational record
+1614,WA|douglas,train,0,Known status; no Operational record
+1615,WA|thurston,train,1,Known status; no Operational record
+1616,WA|pierce,train,3,Known status; no Operational record
+1619,WA|franklin,train,2,Known status; no Operational record
+1620,WA|spokane,train,0,Known status; no Operational record
+1621,WA|okanogan,train,0,Known status; no Operational record
+1622,WA|kitsap,train,2,Known status; no Operational record
+1623,WA|clallam,train,4,Known status; no Operational record
+1624,WA|benton,train,4,Known status; no Operational record
+1625,WA|klickitat,train,1,Operational record
+1626,WA|kittitas,holdout,-1,Known status; no Operational record
+1627,WA|stevens,train,3,Known status; no Operational record
+1628,WA|walla walla,holdout,-1,Known status; no Operational record
+1629,WA|yakima,train,2,Known status; no Operational record
+1630,WA|king,holdout,-1,Known status; no Operational record
+1632,WA|grays harbor,train,4,Known status; no Operational record
+1633,WA|snohomish,train,2,Known status; no Operational record
+1634,WA|whatcom,holdout,-1,Known status; no Operational record
+1636,WA|king,holdout,-1,Known status; no Operational record
+1637,WA|kitsap,train,2,Known status; no Operational record
+1638,WA|king,holdout,-1,Known status; no Operational record
+1639,WA|skagit,train,1,Known status; no Operational record
+1640,WA|clark,train,1,Known status; no Operational record
+1641,WA|mason,holdout,-1,Known status; no Operational record
+1642,WA|pierce,train,3,Known status; no Operational record
+1643,WA|king,holdout,-1,Known status; no Operational record
+1644,WA|skagit,train,1,Known status; no Operational record
+1645,WA|pend oreille,holdout,-1,Known status; no Operational record
+1646,WA|lincoln,holdout,-1,Known status; no Operational record
+1647,WA|okanogan,train,0,Known status; no Operational record
+1648,WA|kitsap,train,2,Known status; no Operational record
+1649,WA|franklin,train,2,Known status; no Operational record
+1650,WA|whatcom,holdout,-1,Known status; no Operational record
+1651,WA|pacific,train,2,Known status; no Operational record
+1652,WA|san juan,train,4,Known status; no Operational record
+1654,WA|pend oreille,holdout,-1,Known status; no Operational record
+1655,WA|whitman,holdout,-1,Known status; no Operational record
+1656,WA|king,holdout,-1,Known status; no Operational record
+1657,WI|adams,holdout,-1,Known status; no Operational record
+1658,WI|brown,train,3,Known status; no Operational record
+1659,WI|brown,train,3,Known status; no Operational record
+1660,WI|dane,train,4,Operational record
+1661,WI|jefferson,train,0,Known status; no Operational record
+1662,WI|door,train,1,Known status; no Operational record
+1663,WI|adams,holdout,-1,Known status; no Operational record
+1665,WI|eau claire,train,2,Known status; no Operational record
+1666,WI|sawyer,train,3,Known status; no Operational record
+1667,WI|dodge,train,0,Operational record
+1668,WI|dodge,train,0,Known status; no Operational record
+1669,WI|jackson,train,4,Known status; no Operational record
+1670,WI|kewaunee,train,3,Known status; no Operational record
+1672,WI|la crosse,train,4,Operational record
+1673,WI|washburn,train,2,Known status; no Operational record
+1674,WI|racine,train,3,Operational record
+1675,WI|lincoln,train,1,Known status; no Operational record
+1676,WI|walworth,train,1,Operational record
+1678,WI|marathon,train,4,Known status; no Operational record
+1679,WI|marinette,train,2,Known status; no Operational record
+1680,WI|green lake,train,3,Known status; no Operational record
+1681,WI|milwaukee,holdout,-1,Operational record
+1682,WI|dane,train,4,Known status; no Operational record
+1683,WI|monroe,train,0,Known status; no Operational record
+1684,WI|marquette,train,1,Known status; no Operational record
+1686,WI|oneida,train,1,Known status; no Operational record
+1687,WI|outagamie,train,4,Operational record
+1689,WI|kenosha,train,0,Operational record
+1691,WI|portage,train,2,Known status; no Operational record
+1693,WI|green lake,train,3,Known status; no Operational record
+1695,WI|manitowoc,train,3,Operational record
+1696,WI|columbia,train,3,Known status; no Operational record
+1697,WI|rock,train,2,Operational record
+1698,WI|sawyer,train,3,Known status; no Operational record
+1699,WI|sauk,holdout,-1,Operational record
+1700,WI|sheboygan,train,0,Known status; no Operational record
+1701,WI|douglas,train,4,Known status; no Operational record
+1702,WI|wood,train,0,Operational record
+1703,WI|walworth,train,1,Known status; no Operational record
+1704,WI|jefferson,train,0,Known status; no Operational record
+1705,WI|green lake,train,3,Operational record
+1706,WI|winnebago,train,3,Known status; no Operational record
+1707,WI|winnebago,train,3,Operational record
+1709,WI|dane,train,4,Operational record
+1712,WI|waukesha,train,4,Operational record
+1713,WI|wood,train,0,Known status; no Operational record
+1714,OR|multnomah,holdout,-1,Known status; no Operational record
+1715,CA|san diego,train,3,Known status; no Operational record
+1716,CO|adams,train,3,Known status; no Operational record
+1717,CO|adams,train,3,Known status; no Operational record
+1718,CO|arapahoe,train,0,Operational record
+1719,CO|boulder,holdout,-1,Known status; no Operational record
+1720,CO|el paso,train,0,Known status; no Operational record
+1721,CO|el paso,train,0,Known status; no Operational record
+1722,CO|el paso,train,0,Known status; no Operational record
+1723,CO|el paso,train,0,Known status; no Operational record
+1724,CO|garfield,train,2,Known status; no Operational record
+1725,CO|jefferson,holdout,-1,Known status; no Operational record
+1726,CO|larimer,train,1,Known status; no Operational record
+1727,CO|mesa,holdout,-1,Known status; no Operational record
+1728,CO|weld,holdout,-1,Known status; no Operational record
+1729,CO|montrose,train,2,Known status; no Operational record
+1730,CO|morgan,train,4,Known status; no Operational record
+1731,CO|pitkin,train,3,Known status; no Operational record
+1732,CO|pueblo,train,3,Known status; no Operational record
+1733,CO|pueblo,train,3,Known status; no Operational record
+1734,CO|routt,train,4,Known status; no Operational record
+1735,CO|summit,train,0,Known status; no Operational record
+1736,CO|weld,holdout,-1,Known status; no Operational record
+1737,CO|weld,holdout,-1,Operational record
+1738,CO|weld,holdout,-1,Known status; no Operational record
+1739,CO|weld,holdout,-1,Operational record
+1740,CO|douglas,train,4,Known status; no Operational record
+1743,NE|box butte,train,4,Known status; no Operational record
+1744,NE|gage,train,4,Known status; no Operational record
+1745,NE|butler,train,0,Operational record
+1746,NE|douglas,train,4,Operational record
+1747,NE|seward,holdout,-1,Known status; no Operational record
+1748,NE|dakota,holdout,-1,Operational record
+1749,NE|hall,train,2,Known status; no Operational record
+1750,NE|adams,train,0,Known status; no Operational record
+1751,NE|phelps,train,3,Known status; no Operational record
+1752,NE|perkins,train,0,Known status; no Operational record
+1753,NE|buffalo,train,2,Known status; no Operational record
+1754,NE|lancaster,holdout,-1,Operational record
+1755,NE|fillmore,train,2,Known status; no Operational record
+1756,NE|stanton,train,4,Known status; no Operational record
+1757,NE|sarpy,train,2,Operational record
+1758,NE|york,train,2,Known status; no Operational record
+1759,NE|dodge,train,2,Known status; no Operational record
+1760,NE|madison,holdout,-1,Known status; no Operational record
+1761,NE|buffalo,train,2,Known status; no Operational record
+1762,NE|lincoln,holdout,-1,Known status; no Operational record
+1763,NE|otoe,train,1,Known status; no Operational record
+1764,NE|cass,train,3,Known status; no Operational record
+1765,NE|scotts bluff,train,0,Known status; no Operational record
+1768,AZ|maricopa,train,4,Known status; no Operational record
+1769,AZ|pima,holdout,-1,Known status; no Operational record
+1770,AZ|pima,holdout,-1,Known status; no Operational record
+1771,AZ|navajo,train,2,Known status; no Operational record
+1772,AZ|maricopa,train,4,Known status; no Operational record
+1773,AZ|pinal,train,2,Known status; no Operational record
+1774,CA|san diego,train,3,Known status; no Operational record
+1775,CA|san bernardino,holdout,-1,Known status; no Operational record
+1777,HI|honolulu,train,3,Known status; no Operational record
+1778,TX|dallas,train,2,Known status; no Operational record
+1779,TX|cherokee,train,4,Known status; no Operational record
+1780,CA|los angeles,train,0,Known status; no Operational record
+1781,AZ|maricopa,train,4,Known status; no Operational record
+1782,AZ|coconino,train,1,Known status; no Operational record
+1783,AZ|maricopa,train,4,Known status; no Operational record
+1785,AZ|cochise,train,0,Known status; no Operational record
+1786,AZ|maricopa,train,4,Operational record
+1787,AZ|maricopa,train,4,Known status; no Operational record
+1788,AZ|maricopa,train,4,Known status; no Operational record
+1789,AZ|santa cruz,train,0,Known status; no Operational record
+1790,AZ|maricopa,train,4,Known status; no Operational record
+1791,AZ|pima,holdout,-1,Known status; no Operational record
+1792,CA|los angeles,train,0,Known status; no Operational record
+1793,NM|san miguel,holdout,-1,Known status; no Operational record
+1794,NV|clark,train,4,Known status; no Operational record
+1798,AZ|maricopa,train,4,Known status; no Operational record
+1799,AZ|maricopa,train,4,Known status; no Operational record
+1800,AZ|maricopa,train,4,Known status; no Operational record
+1801,TX|dallas,train,2,Known status; no Operational record
+1802,TX|jefferson,holdout,-1,Known status; no Operational record
+1803,TX|hidalgo,train,3,Known status; no Operational record
+1805,TX|denton,train,3,Known status; no Operational record
+1807,TX|comal,train,1,Operational record
+1808,TX|galveston,train,1,Operational record
+1809,TX|grayson,train,4,Known status; no Operational record
+1810,TX|galveston,train,1,Operational record
+1811,TX|harris,train,2,Known status; no Operational record
+1812,TX|fort bend,train,2,Operational record
+1813,TX|randall,train,1,Known status; no Operational record
+1814,TX|potter,train,0,Known status; no Operational record
+1815,TX|mitchell,train,4,Known status; no Operational record
+1816,TX|victoria,train,4,Operational record
+1817,TX|parker,train,3,Known status; no Operational record
+1818,TX|brazos,holdout,-1,Known status; no Operational record
+1819,TX|williamson,train,1,Known status; no Operational record
+1820,TX|bexar,train,4,Operational record
+1821,TX|wichita,train,1,Known status; no Operational record
+1822,TX|chambers,train,3,Known status; no Operational record
+1824,TX|ochiltree,train,4,Known status; no Operational record
+1826,TX|nolan,train,0,Known status; no Operational record
+1827,TX|nacogdoches,train,2,Known status; no Operational record
+1828,TX|dallas,train,2,Known status; no Operational record
+1829,DE|new castle,train,0,Operational record
+1830,DE|new castle,train,0,Known status; no Operational record
+1831,DE|kent,train,2,Operational record
+1832,DE|sussex,train,1,Operational record
+1833,MA|bristol,train,1,Known status; no Operational record
+1834,MA|norfolk,holdout,-1,Known status; no Operational record
+1835,MA|hampshire,holdout,-1,Known status; no Operational record
+1836,MA|middlesex,train,1,Known status; no Operational record
+1837,NC|wake,train,0,Operational record
+1838,NH|cheshire,holdout,-1,Known status; no Operational record
+1839,NH|strafford,train,4,Operational record
+1841,NY|erie,train,3,Known status; no Operational record
+1843,PA|allegheny,train,2,Known status; no Operational record
+1845,RI|providence,train,4,Operational record
+1846,RI|providence,train,4,Operational record
+1847,SC|greenville,train,0,Known status; no Operational record
+1848,SC|greenville,train,0,Operational record
+1850,VT|windham,train,1,Known status; no Operational record
+1851,VT|chittenden,train,1,Known status; no Operational record
+1852,NH|hillsborough,train,2,Operational record
+1853,NH|hillsborough,train,2,Known status; no Operational record
+1854,SC|richland,train,3,Operational record
+1855,MI|wayne,holdout,-1,Operational record
+1856,IL|st. clair,train,4,Known status; no Operational record
+1857,IL|cook,train,1,Known status; no Operational record
+1858,IL|cook,train,1,Known status; no Operational record
+1859,IL|cook,train,1,Known status; no Operational record
+1861,IL|mclean,train,2,Known status; no Operational record
+1862,IL|cook,train,1,Known status; no Operational record
+1864,IL|vermilion,train,3,Operational record
+1865,IL|henry,train,4,Known status; no Operational record
+1866,IL|cook,train,1,Known status; no Operational record
+1868,IL|peoria,train,4,Known status; no Operational record
+1869,IL|rock island,train,1,Known status; no Operational record
+1870,IL|mercer,train,3,Known status; no Operational record
+1872,IL|vermilion,train,3,Known status; no Operational record
+1873,IL|jersey,train,1,Known status; no Operational record
+1874,IL|madison,train,3,Known status; no Operational record
+1877,IL|montgomery,train,1,Known status; no Operational record
+1878,MI|washtenaw,train,0,Operational record
+1879,MI|washtenaw,train,0,Operational record
+1880,MI|genesee,train,3,Operational record
+1881,MI|wayne,holdout,-1,Known status; no Operational record
+1883,MI|ottawa,train,2,Operational record
+1884,MI|saginaw,train,2,Operational record
+1885,MI|wayne,holdout,-1,Operational record
+1886,MI|genesee,train,3,Known status; no Operational record
+1887,MI|saginaw,train,2,Operational record
+1888,MI|shiawassee,train,2,Operational record
+1889,MI|wayne,holdout,-1,Operational record
+1890,MI|clinton,train,1,Operational record
+1891,MI|genesee,train,3,Operational record
+1892,MI|wayne,holdout,-1,Operational record
+1893,MI|macomb,train,3,Operational record
+1894,MI|oakland,train,0,Operational record
+1895,MI|berrien,train,4,Known status; no Operational record
+1896,MI|bay,holdout,-1,Operational record
+1897,MI|monroe,holdout,-1,Known status; no Operational record
+1898,OH|mercer,holdout,-1,Known status; no Operational record
+1899,IL|ogle,train,4,Known status; no Operational record
+1900,MI|calhoun,train,2,Operational record
+1901,MI|oakland,train,0,Known status; no Operational record
+1902,MI|lenawee,train,1,Operational record
+1908,OH|lake,holdout,-1,Known status; no Operational record
+1910,NC|mecklenburg,train,1,Known status; no Operational record
+1912,MI|wayne,holdout,-1,Operational record
+1914,TX|brown,train,0,Known status; no Operational record
+1915,NC|catawba,train,0,Known status; no Operational record
+1916,SC|york,train,4,Known status; no Operational record
+1917,SC|horry,holdout,-1,Operational record
+1918,SC|spartanburg,train,4,Operational record
+1919,SC|spartanburg,train,4,Known status; no Operational record
+1920,SC|aiken,holdout,-1,Operational record
+1923,SC|florence,train,0,Known status; no Operational record
+1925,VA|roanoke,train,1,Known status; no Operational record
+1928,SC|spartanburg,train,4,Operational record
+1929,CA|sonoma,train,3,Operational record
+1930,PR|cayey,train,3,Known status; no Operational record
+1931,PR|fajardo,holdout,-1,Operational record
+1932,PR|guaynabo,train,0,Known status; no Operational record
+1933,PR|mayaguez,holdout,-1,Known status; no Operational record
+1934,PR|san juan,train,4,Known status; no Operational record
+1935,PR|toa baja,train,0,Operational record
+1936,MI|oakland,train,0,Operational record
+1937,GA|clayton,train,3,Known status; no Operational record
+1938,IN|white,train,3,Operational record
+1939,IN|marion,train,1,Operational record
+1940,MI|st. joseph,holdout,-1,Operational record
+1941,OH|montgomery,train,4,Operational record
+1942,CA|san diego,train,3,Known status; no Operational record
+1943,IN|vanderburgh,train,0,Operational record
+1944,MD|anne arundel,train,1,Known status; no Operational record
+1945,NV|clark,train,4,Known status; no Operational record
+1947,MI|clinton,train,1,Operational record
+1948,TX|fort bend,train,2,Known status; no Operational record
+1950,MN|washington,train,3,Known status; no Operational record
+1951,MA|worcester,train,0,Known status; no Operational record
+1952,MS|washington,holdout,-1,Known status; no Operational record
+1954,MS|madison,train,4,Known status; no Operational record
+1955,MS|holmes,train,2,Known status; no Operational record
+1956,MS|winston,train,4,Known status; no Operational record
+1957,MS|scott,train,4,Known status; no Operational record
+1958,MS|oktibbeha,holdout,-1,Operational record
+1959,MS|jefferson,holdout,-1,Known status; no Operational record
+1960,MS|leflore,train,1,Known status; no Operational record
+1961,MS|madison,train,4,Known status; no Operational record
+1962,MS|jackson,train,3,Known status; no Operational record
+1963,MS|harrison,train,4,Operational record
+1964,MS|perry,train,3,Known status; no Operational record
+1965,MS|lauderdale,holdout,-1,Known status; no Operational record
+1966,MS|adams,train,4,Known status; no Operational record
+1967,MS|chickasaw,train,3,Operational record
+1968,MS|pontotoc,train,1,Operational record
+1969,MS|tunica,train,4,Known status; no Operational record
+1970,MS|hancock,train,2,Known status; no Operational record
+1972,MS|kemper,holdout,-1,Known status; no Operational record
+1973,MS|tippah,train,2,Operational record
+1975,MS|harrison,train,4,Known status; no Operational record
+1976,CA|yuba,train,2,Operational record
+1977,OH|montgomery,train,4,Known status; no Operational record
+1978,GA|polk,train,0,Known status; no Operational record
+1981,GA|polk,train,0,Known status; no Operational record
+1982,GA|carroll,train,4,Known status; no Operational record
+1984,GA|heard,train,2,Known status; no Operational record
+1985,GA|bartow,train,0,Known status; no Operational record
+1986,GA|floyd,train,1,Known status; no Operational record
+1987,GA|coweta,train,3,Known status; no Operational record
+1988,ID|bannock,holdout,-1,Operational record
+1989,MT|gallatin,holdout,-1,Known status; no Operational record
+1990,MI|muskegon,train,1,Operational record
+1991,MI|saginaw,train,2,Known status; no Operational record
+1992,MI|berrien,train,4,Operational record
+1993,MN|mcleod,train,0,Operational record
+1994,AK|anchorage,train,4,Operational record
+1997,NY|allegany,train,0,Operational record
+1998,NY|madison,train,2,Known status; no Operational record
+2000,SC|dorchester,holdout,-1,Operational record
+2001,NH|grafton,train,0,Known status; no Operational record
+2002,NY|westchester,train,1,Known status; no Operational record
+2005,AL|tuscaloosa,train,0,Known status; no Operational record
+2006,AL|blount,train,4,Known status; no Operational record
+2011,AL|lawrence,train,2,Known status; no Operational record
+2018,NH|hillsborough,train,2,Known status; no Operational record
+2019,NH|rockingham,train,3,Known status; no Operational record
+2023,NH|cheshire,holdout,-1,Known status; no Operational record
+2024,NH|rockingham,train,3,Known status; no Operational record
+2025,NH|grafton,train,0,Known status; no Operational record
+2028,NH|hillsborough,train,2,Known status; no Operational record
+2029,NH|coos,train,3,Known status; no Operational record
+2030,NH|hillsborough,train,2,Known status; no Operational record
+2031,NH|carroll,train,3,Known status; no Operational record
+2033,NH|carroll,train,3,Known status; no Operational record
+2034,NH|carroll,train,3,Known status; no Operational record
+2041,VT|orleans,train,3,Operational record
+2042,VT|washington,train,0,Operational record
+2043,AR|pulaski,train,4,Operational record
+2044,TX|dallas,train,2,Known status; no Operational record
+2045,VA|tazewell,train,3,Known status; no Operational record
+2046,IA|winneshiek,holdout,-1,Known status; no Operational record
+2047,TX|hunt,train,0,Known status; no Operational record
+2048,TX|bell,train,3,Known status; no Operational record
+2049,TX|tarrant,holdout,-1,Known status; no Operational record
+2050,OH|franklin,holdout,-1,Known status; no Operational record
+2051,SC|anderson,train,2,Operational record
+2052,AR|sebastian,train,4,Operational record
+2053,FL|palm beach,train,0,Operational record
+2054,GA|fayette,train,0,Known status; no Operational record
+2055,IA|webster,train,1,Known status; no Operational record
+2059,VA|newport news city,train,3,Known status; no Operational record
+2060,VA|fauquier,train,0,Known status; no Operational record
+2061,NM|bernalillo,train,2,Known status; no Operational record
+2062,NM|bernalillo,train,2,Operational record
+2063,NM|bernalillo,train,2,Known status; no Operational record
+2064,NC|rockingham,train,3,Known status; no Operational record
+2065,SC|sumter,train,4,Known status; no Operational record
+2066,CA|san diego,train,3,Known status; no Operational record
+2067,ID|kootenai,holdout,-1,Operational record
+2068,MI|ottawa,train,2,Operational record
+2069,MI|muskegon,train,1,Known status; no Operational record
+2071,VA|king george,train,0,Operational record
+2072,VA|gloucester,train,1,Operational record
+2073,OR|jackson,train,0,Operational record
+2074,UT|carbon,holdout,-1,Known status; no Operational record
+2075,VA|henrico,train,3,Operational record
+2076,KY|floyd,train,0,Known status; no Operational record
+2077,NY|schenectady,train,2,Known status; no Operational record
+2078,MO|jefferson,train,1,Known status; no Operational record
+2079,HI|maui,train,4,Known status; no Operational record
+2080,HI|maui,train,4,Known status; no Operational record
+2081,HI|kauai,train,2,Known status; no Operational record
+2083,HI|maui,train,4,Known status; no Operational record
+2084,HI|maui,train,4,Known status; no Operational record
+2087,HI|hawaii,holdout,-1,Known status; no Operational record
+2089,HI|honolulu,train,3,Known status; no Operational record
+2090,HI|hawaii,holdout,-1,Known status; no Operational record
+2091,KY|perry,holdout,-1,Known status; no Operational record
+2092,IA|fayette,train,4,Known status; no Operational record
+2093,AR|pulaski,train,4,Known status; no Operational record
+2094,SC|lee,train,3,Operational record
+2095,SC|cherokee,holdout,-1,Known status; no Operational record
+2096,SC|jasper,train,2,Known status; no Operational record
+2097,SC|anderson,train,2,Known status; no Operational record
+2099,SC|lexington,train,1,Known status; no Operational record
+2100,SC|orangeburg,train,1,Known status; no Operational record
+2101,SC|abbeville,train,4,Known status; no Operational record
+2105,SC|aiken,holdout,-1,Known status; no Operational record
+2108,SC|barnwell,train,3,Known status; no Operational record
+2109,SC|berkeley,train,3,Operational record
+2110,SC|chester,train,1,Known status; no Operational record
+2111,SC|clarendon,train,1,Known status; no Operational record
+2113,SC|georgetown,train,4,Known status; no Operational record
+2114,SC|greenville,train,0,Known status; no Operational record
+2115,SC|greenwood,train,0,Known status; no Operational record
+2117,SC|kershaw,train,3,Known status; no Operational record
+2120,SC|lexington,train,1,Known status; no Operational record
+2121,SC|oconee,train,4,Known status; no Operational record
+2122,SC|pickens,train,2,Known status; no Operational record
+2123,SC|richland,train,3,Known status; no Operational record
+2124,SC|richland,train,3,Known status; no Operational record
+2126,SC|union,train,1,Operational record
+2127,SC|williamsburg,train,3,Known status; no Operational record
+2130,SC|anderson,train,2,Known status; no Operational record
+2131,VA|rockingham,holdout,-1,Known status; no Operational record
+2132,VA|montgomery,train,0,Known status; no Operational record
+2133,VA|pulaski,holdout,-1,Operational record
+2134,VA|page,train,4,Known status; no Operational record
+2135,FL|hillsborough,holdout,-1,Operational record
+2136,OK|osage,train,3,Known status; no Operational record
+2137,OK|grady,train,2,Known status; no Operational record
+2138,OK|major,holdout,-1,Known status; no Operational record
+2139,MT|missoula,train,2,Known status; no Operational record
+2140,MT|cascade,train,3,Known status; no Operational record
+2141,MT|yellowstone,train,3,Operational record
+2142,NC|buncombe,holdout,-1,Operational record
+2143,NM|los alamos,train,4,Known status; no Operational record
+2144,MS|pearl river,train,0,Known status; no Operational record
+2146,MS|hinds,train,1,Known status; no Operational record
+2147,MN|becker,train,3,Known status; no Operational record
+2148,MN|stearns,train,0,Known status; no Operational record
+2149,MN|olmsted,train,4,Known status; no Operational record
+2150,WV|raleigh,train,4,Operational record
+2151,WI|waukesha,train,4,Operational record
+2152,WI|calumet,holdout,-1,Known status; no Operational record
+2153,ND|cass,train,0,Operational record
+2154,GA|walker,train,3,Known status; no Operational record
+2156,FL|hernando,train,3,Operational record
+2157,GA|liberty,train,3,Known status; no Operational record
+2158,KY|mason,train,0,Known status; no Operational record
+2159,VA|northampton,train,1,Known status; no Operational record
+2160,CO|fremont,holdout,-1,Known status; no Operational record
+2161,GA|fulton,train,4,Known status; no Operational record
+2162,CA|los angeles,train,0,Operational record
+2163,NY|warren,train,4,Known status; no Operational record
+2164,IL|lake,train,3,Known status; no Operational record
+2165,ID|ada,train,4,Operational record
+2168,ID|bingham,train,3,Known status; no Operational record
+2169,ID|bingham,train,3,Known status; no Operational record
+2175,ID|canyon,train,3,Known status; no Operational record
+2178,ID|franklin,train,1,Known status; no Operational record
+2182,ID|fremont,train,4,Known status; no Operational record
+2183,ID|jefferson,holdout,-1,Known status; no Operational record
+2184,ID|latah,train,1,Known status; no Operational record
+2189,ID|oneida,train,3,Known status; no Operational record
+2190,ID|payette,holdout,-1,Known status; no Operational record
+2191,ID|cassia,train,0,Operational record
+2192,ID|fremont,train,4,Known status; no Operational record
+2193,ID|teton,train,1,Known status; no Operational record
+2194,AZ|yavapai,train,1,Known status; no Operational record
+2195,MI|st. clair,train,1,Operational record
+2196,WY|laramie,train,2,Known status; no Operational record
+2197,MA|hampden,holdout,-1,Known status; no Operational record
+2199,NC|person,holdout,-1,Operational record
+2200,NC|caldwell,holdout,-1,Operational record
+2201,NC|watauga,holdout,-1,Known status; no Operational record
+2202,TN|hamilton,train,4,Known status; no Operational record
+2203,IN|st. joseph,train,3,Known status; no Operational record
+2204,AL|cherokee,train,3,Operational record
+2205,WV|putnam,train,2,Known status; no Operational record
+2206,WV|harrison,train,0,Known status; no Operational record
+2207,WV|kanawha,holdout,-1,Operational record
+2208,WV|berkeley,train,1,Known status; no Operational record
+2209,WV|harrison,train,0,Known status; no Operational record
+2212,WV|wood,train,3,Known status; no Operational record
+2214,WV|tucker,train,1,Known status; no Operational record
+2215,WV|mercer,train,1,Known status; no Operational record
+2216,WV|putnam,train,2,Known status; no Operational record
+2220,WV|greenbrier,train,4,Known status; no Operational record
+2224,WV|ohio,train,3,Known status; no Operational record
+2225,WV|wetzel,train,0,Operational record
+2227,MN|anoka,train,3,Known status; no Operational record
+2228,MN|hennepin,train,1,Known status; no Operational record
+2231,NJ|atlantic,train,4,Known status; no Operational record
+2232,MI|montcalm,train,3,Operational record
+2233,MI|crawford,train,0,Operational record
+2234,MI|huron,train,2,Known status; no Operational record
+2235,MI|leelanau,train,0,Operational record
+2236,MI|ontonagon,holdout,-1,Known status; no Operational record
+2237,MI|kent,train,4,Operational record
+2238,MI|manistee,holdout,-1,Known status; no Operational record
+2239,MI|menominee,train,2,Known status; no Operational record
+2240,MI|clare,train,4,Operational record
+2241,MI|berrien,train,4,Operational record
+2242,MI|midland,train,1,Operational record
+2243,OH|mahoning,train,4,Operational record
+2245,OH|richland,train,2,Operational record
+2246,OH|jackson,train,4,Known status; no Operational record
+2247,OH|perry,train,1,Operational record
+2249,OH|fairfield,holdout,-1,Known status; no Operational record
+2250,ME|somerset,train,2,Operational record
+2251,ME|sagadahoc,holdout,-1,Known status; no Operational record
+2252,ME|piscataquis,train,0,Known status; no Operational record
+2253,ME|somerset,train,2,Known status; no Operational record
+2254,ME|kennebec,train,3,Operational record
+2255,ME|cumberland,holdout,-1,Known status; no Operational record
+2256,ME|aroostook,holdout,-1,Known status; no Operational record
+2257,ME|aroostook,holdout,-1,Known status; no Operational record
+2259,ME|penobscot,train,4,Known status; no Operational record
+2260,RI|washington,train,1,Known status; no Operational record
+2262,RI|bristol,holdout,-1,Known status; no Operational record
+2263,ME|cumberland,holdout,-1,Known status; no Operational record
+2266,GA|butts,train,2,Operational record
+2267,GA|wayne,train,4,Known status; no Operational record
+2268,GA|barrow,train,2,Operational record
+2271,MI|presque isle,train,3,Known status; no Operational record
+2273,TX|hunt,train,0,Known status; no Operational record
+2275,TX|ector,holdout,-1,Known status; no Operational record
+2276,TX|tom green,holdout,-1,Known status; no Operational record
+2277,CO|weld,holdout,-1,Operational record
+2279,GA|bibb,train,4,Known status; no Operational record
+2281,IN|vigo,train,1,Operational record
+2282,AR|washington,train,3,Operational record
+2283,AR|jefferson,holdout,-1,Known status; no Operational record
+2284,AR|yell,train,1,Known status; no Operational record
+2285,TX|bexar,train,4,Operational record
+2287,MT|flathead,train,0,Operational record
+2288,GA|troup,holdout,-1,Known status; no Operational record
+2289,LA|jefferson,train,4,Operational record
+2290,MO|jackson,holdout,-1,Operational record
+2291,AR|craighead,holdout,-1,Known status; no Operational record
+2292,NC|surry,train,1,Operational record
+2293,AR|pulaski,train,4,Known status; no Operational record
+2294,SD|minnehaha,train,3,Operational record
+2295,VI|st. croix,holdout,-1,Known status; no Operational record
+2296,VI|st. thomas,train,2,Known status; no Operational record
+2297,HI|honolulu,train,3,Known status; no Operational record
+2299,HI|hawaii,holdout,-1,Known status; no Operational record
+2301,MA|hampshire,holdout,-1,Known status; no Operational record
+2302,ND|grand forks,train,1,Known status; no Operational record
+2303,GA|cherokee,train,0,Known status; no Operational record
+2304,FL|sarasota,train,1,Operational record
+2305,SC|richland,train,3,Known status; no Operational record
+2306,IL|st. clair,train,4,Known status; no Operational record
+2307,IL|stephenson,train,1,Known status; no Operational record
+2308,IL|knox,train,3,Known status; no Operational record
+2309,IL|lasalle,train,4,Known status; no Operational record
+2310,IL|effingham,train,0,Known status; no Operational record
+2311,IL|lawrence,holdout,-1,Known status; no Operational record
+2312,IL|perry,train,0,Known status; no Operational record
+2313,IL|pike,train,3,Known status; no Operational record
+2314,IL|whiteside,holdout,-1,Known status; no Operational record
+2315,IL|will,train,2,Operational record
+2316,IL|marion,holdout,-1,Known status; no Operational record
+2317,IL|saline,train,2,Known status; no Operational record
+2318,IL|fulton,train,2,Known status; no Operational record
+2319,IL|wayne,train,0,Known status; no Operational record
+2320,IL|saline,train,2,Known status; no Operational record
+2321,IL|will,train,2,Known status; no Operational record
+2322,IL|will,train,2,Operational record
+2323,IL|winnebago,holdout,-1,Known status; no Operational record
+2324,IL|lee,train,0,Known status; no Operational record
+2325,SD|davison,train,0,Known status; no Operational record
+2326,SD|hughes,train,3,Known status; no Operational record
+2327,SD|brookings,holdout,-1,Known status; no Operational record
+2328,SD|brule,train,2,Known status; no Operational record
+2329,SD|clay,train,0,Known status; no Operational record
+2330,SD|brown,train,1,Known status; no Operational record
+2331,SD|pennington,holdout,-1,Operational record
+2332,SD|codington,train,2,Known status; no Operational record
+2333,VA|brunswick,train,3,Operational record
+2334,MA|barnstable,holdout,-1,Known status; no Operational record
+2335,AZ|maricopa,train,4,Known status; no Operational record
+2336,NC|sampson,train,1,Known status; no Operational record
+2337,KY|nelson,train,3,Known status; no Operational record
+2338,VA|shenandoah,train,1,Known status; no Operational record
+2339,PR|aguadilla,train,1,Known status; no Operational record
+2341,PR|arecibo,train,3,Operational record
+2344,PR|cabo rojo,train,4,Known status; no Operational record
+2345,PR|carolina,train,2,Known status; no Operational record
+2347,PR|humacao,train,4,Known status; no Operational record
+2348,PR|florida,train,3,Known status; no Operational record
+2354,PR|juncos,train,1,Known status; no Operational record
+2358,PR|ponce,train,3,Known status; no Operational record
+2359,PR|salinas,holdout,-1,Known status; no Operational record
+2360,PR|toa alta,train,2,Known status; no Operational record
+2361,PR|vega baja,train,1,Known status; no Operational record
+2363,PR|yabucoa,holdout,-1,Known status; no Operational record
+2364,PR|yauco,train,4,Known status; no Operational record
+2384,OK|oklahoma,train,0,Operational record
+2385,FL|highlands,train,3,Operational record
+2387,ND|ward,train,2,Known status; no Operational record
+2388,ND|ward,train,2,Known status; no Operational record
+2389,ND|sargent,train,3,Known status; no Operational record
+2390,AZ|pinal,train,2,Known status; no Operational record
+2391,AZ|pinal,train,2,Known status; no Operational record
+2392,AZ|pinal,train,2,Known status; no Operational record
+2394,NM|sandoval,holdout,-1,Known status; no Operational record
+2395,NM|san juan,train,3,Known status; no Operational record
+2396,TX|bowie,train,2,Known status; no Operational record
+2397,TX|newton,train,3,Known status; no Operational record
+2398,TX|lamar,holdout,-1,Known status; no Operational record
+2400,VT|chittenden,train,1,Known status; no Operational record
+2401,AR|union,train,1,Known status; no Operational record
+2407,WI|rusk,train,4,Operational record
+2408,AL|pike,train,1,Known status; no Operational record
+2410,AL|dekalb,train,0,Operational record
+2411,AZ|la paz,train,2,Known status; no Operational record
+2412,AZ|mohave,train,3,Known status; no Operational record
+2413,AZ|mohave,train,3,Known status; no Operational record
+2414,AZ|yuma,train,3,Known status; no Operational record
+2415,TX|tarrant,holdout,-1,Known status; no Operational record
+2418,IL|ogle,train,4,Known status; no Operational record
+2419,GA|catoosa,holdout,-1,Operational record
+2420,IL|jersey,train,1,Known status; no Operational record
+2421,IN|newton,train,4,Operational record
+2424,NC|anson,train,3,Known status; no Operational record
+2425,MO|barton,train,0,Operational record
+2426,MS|desoto,train,1,Known status; no Operational record
+2427,OH|butler,train,0,Known status; no Operational record
+2429,OH|lorain,train,3,Known status; no Operational record
+2430,OH|muskingum,train,1,Known status; no Operational record
+2431,OH|washington,train,3,Known status; no Operational record
+2432,OK|payne,holdout,-1,Known status; no Operational record
+2433,OK|payne,holdout,-1,Known status; no Operational record
+2434,OK|pittsburg,train,4,Known status; no Operational record
+2436,TX|denton,train,3,Known status; no Operational record
+2437,TX|ellis,train,4,Known status; no Operational record
+2438,TX|hill,train,4,Known status; no Operational record
+2439,TX|kerr,train,1,Known status; no Operational record
+2440,TX|limestone,train,2,Known status; no Operational record
+2441,TX|nueces,train,1,Known status; no Operational record
+2442,TX|san patricio,train,1,Known status; no Operational record
+2443,TX|titus,train,4,Known status; no Operational record
+2444,VA|king and queen,train,2,Operational record
+2445,TX|hidalgo,train,3,Known status; no Operational record
+2446,VT|chittenden,train,1,Known status; no Operational record
+10080,VA|augusta,train,4,Known status; no Operational record
+10081,VA|bristol city,train,2,Operational record
+10082,VA|carroll,train,3,Known status; no Operational record
+10083,VA|page,train,4,Known status; no Operational record
+10084,VA|spotsylvania,train,0,Known status; no Operational record
+10085,VA|campbell,train,0,Known status; no Operational record
+10086,VA|pittsylvania,train,1,Known status; no Operational record
+10087,VA|amherst,holdout,-1,Known status; no Operational record
+10088,VA|greensville,train,4,Known status; no Operational record
+10089,VA|botetourt,holdout,-1,Known status; no Operational record
+10090,VA|prince edward,train,3,Known status; no Operational record
+10091,VA|lunenburg,train,2,Known status; no Operational record
+10092,VA|alleghany,holdout,-1,Known status; no Operational record
+10093,VA|bedford,train,2,Known status; no Operational record
+10094,VA|wise,train,4,Known status; no Operational record
+10100,MA|worcester,train,0,Operational record
+10120,MD|dorchester,train,0,Known status; no Operational record
+10141,CA|los angeles,train,0,Known status; no Operational record
+10160,WV|brooke,train,2,Known status; no Operational record
+10180,GA|banks,train,1,Known status; no Operational record
+10240,GA|decatur,train,0,Known status; no Operational record
+10260,CT|middlesex,holdout,-1,Known status; no Operational record
+10300,IA|johnson,train,0,Known status; no Operational record
+10340,NY|kings,train,4,Known status; no Operational record
+10360,NY|kings,train,4,Known status; no Operational record
+10361,NY|bronx,train,4,Known status; no Operational record
+10362,MA|middlesex,train,1,Known status; no Operational record
+10380,GA|murray,train,2,Known status; no Operational record
+10400,GA|charlton,train,4,Known status; no Operational record
+10401,GA|atkinson,holdout,-1,Known status; no Operational record
+10402,GA|chatham,train,3,Known status; no Operational record
+10403,GA|forsyth,train,2,Known status; no Operational record
+10404,GA|twiggs,train,1,Operational record
+10405,GA|camden,holdout,-1,Known status; no Operational record
+10406,GA|crisp,train,3,Known status; no Operational record
+10407,GA|gordon,train,3,Known status; no Operational record
+10408,GA|hall,holdout,-1,Known status; no Operational record
+10409,GA|thomas,train,1,Known status; no Operational record
+10420,TX|harris,train,2,Known status; no Operational record
+10441,GA|habersham,train,4,Known status; no Operational record
+10442,GA|lamar,train,1,Known status; no Operational record
+10443,GA|laurens,holdout,-1,Known status; no Operational record
+10444,GA|newton,train,1,Known status; no Operational record
+10445,GA|tift,train,2,Known status; no Operational record
+10460,FL|hendry,train,4,Known status; no Operational record
+10461,FL|lee,train,1,Known status; no Operational record
+10462,IN|bartholomew,train,1,Known status; no Operational record
+10480,NM|dona ana,train,2,Operational record
+10500,AR|crittenden,train,2,Known status; no Operational record
+10520,GA|muscogee,train,0,Known status; no Operational record
+10540,FL|miami-dade,train,2,Known status; no Operational record
+10560,CA|san bernardino,holdout,-1,Known status; no Operational record
+10580,TN|madison,train,1,Known status; no Operational record
+10600,SC|charleston,train,0,Known status; no Operational record
+10620,NC|wake,train,0,Known status; no Operational record
+10641,MA|norfolk,holdout,-1,Operational record
+10660,MA|essex,train,4,Known status; no Operational record
+10680,VA|caroline,train,1,Known status; no Operational record
+10700,NY|oneida,holdout,-1,Operational record
+10720,MD|garrett,train,4,Known status; no Operational record
+10740,MD|washington,holdout,-1,Known status; no Operational record
+10760,TX|orange,train,2,Known status; no Operational record
+10780,MA|worcester,train,0,Known status; no Operational record
+10781,NC|onslow,train,2,Operational record
+10782,NC|onslow,train,2,Known status; no Operational record
+10800,VA|rockbridge,holdout,-1,Known status; no Operational record
+10860,AL|perry,train,4,Known status; no Operational record
+10880,NH|coos,train,3,Known status; no Operational record
+10900,NY|franklin,train,0,Operational record
+10921,OH|coshocton,train,4,Known status; no Operational record
+10922,OH|clinton,train,0,Known status; no Operational record
+10940,VA|hanover,train,2,Operational record
+10960,AK|kodiak island,train,4,Known status; no Operational record
+10961,AK|fairbanks north star,train,1,Known status; no Operational record
+10980,AK|matanuska-susitna,holdout,-1,Known status; no Operational record
+11020,AK|anchorage,train,4,Known status; no Operational record
+11040,WA|pierce,train,3,Operational record
+11060,IL|champaign,train,4,Known status; no Operational record
+11080,IL|champaign,train,4,Known status; no Operational record
+11100,WY|natrona,holdout,-1,Known status; no Operational record
+11120,CA|san joaquin,train,4,Operational record
+11140,WY|sheridan,train,3,Known status; no Operational record
+11160,CA|napa,holdout,-1,Operational record
+11180,SC|greenville,train,0,Operational record
+11200,WV|berkeley,train,1,Known status; no Operational record
+11220,CA|fresno,holdout,-1,Known status; no Operational record
+11240,ME|penobscot,train,4,Operational record
+11260,CA|kern,holdout,-1,Known status; no Operational record
+11280,AR|greene,train,0,Known status; no Operational record
+11300,HI|maui,train,4,Known status; no Operational record
+11320,KS|harper,train,4,Operational record
+11321,HI|maui,train,4,Known status; no Operational record
+11340,CA|sonoma,train,3,Known status; no Operational record
+11360,TX|polk,train,3,Known status; no Operational record
+11361,TX|coryell,train,0,Known status; no Operational record
+11380,FL|columbia,holdout,-1,Known status; no Operational record
+11400,TX|wharton,train,0,Known status; no Operational record
+11420,TX|lavaca,train,0,Known status; no Operational record
+11421,AR|mississippi,train,4,Known status; no Operational record
+11422,TX|caldwell,train,1,Known status; no Operational record
+11440,TX|jefferson,holdout,-1,Known status; no Operational record
+11442,AR|jackson,train,2,Known status; no Operational record
+11460,KY|boyd,train,1,Operational record
+11480,KY|scott,train,1,Operational record
+11500,GA|jefferson,holdout,-1,Known status; no Operational record
+11544,AR|faulkner,train,3,Known status; no Operational record
+11545,AR|prairie,train,2,Known status; no Operational record
+11546,AR|conway,train,1,Known status; no Operational record
+11548,AR|saline,train,0,Known status; no Operational record
+11549,AR|howard,train,1,Known status; no Operational record
+11550,AR|fulton,train,3,Known status; no Operational record
+11561,WI|monroe,train,0,Known status; no Operational record
+11581,AL|tallapoosa,train,2,Known status; no Operational record
+11601,IA|cerro gordo,holdout,-1,Known status; no Operational record
+11621,FL|osceola,train,4,Operational record
+11681,KY|hopkins,train,3,Known status; no Operational record
+11682,TN|scott,train,4,Operational record
+11701,IA|carroll,holdout,-1,Known status; no Operational record
+11721,PA|westmoreland,holdout,-1,Operational record
+11722,OH|huron,holdout,-1,Known status; no Operational record
+11761,TX|dallas,train,2,Operational record
+11781,IA|mills,train,3,Operational record
+11801,GU|[missing county],train,1,Known status; no Operational record
+11821,AL|jackson,train,1,Known status; no Operational record
+11822,TX|hidalgo,train,3,Operational record
+11841,KS|ford,train,2,Known status; no Operational record
+11862,TX|nueces,train,1,Operational record
+11902,MD|caroline,train,3,Known status; no Operational record
+11921,NM|curry,holdout,-1,Known status; no Operational record
+11922,MI|sanilac,holdout,-1,Known status; no Operational record
+11941,AK|juneau,train,3,Known status; no Operational record
+11981,GA|chattahoochee,train,4,Known status; no Operational record
+11982,AL|washington,holdout,-1,Known status; no Operational record
+12001,ME|cumberland,holdout,-1,Known status; no Operational record
+12021,OK|seminole,train,1,Operational record
+12041,LA|allen,train,2,Operational record
+12061,OH|jefferson,train,1,Operational record
+12081,VA|mecklenburg,train,4,Known status; no Operational record
+12082,VA|halifax,train,1,Known status; no Operational record
+12083,VA|scott,train,2,Known status; no Operational record
+12101,TX|fort bend,train,2,Operational record
+12102,VA|fairfax,train,3,Operational record
+12121,KY|fayette,train,3,Known status; no Operational record
+12141,AZ|maricopa,train,4,Known status; no Operational record
+12142,OK|osage,train,3,Operational record
+12143,MI|genesee,train,3,Operational record
+12144,IL|rock island,train,1,Known status; no Operational record
+12145,IL|tazewell,train,4,Known status; no Operational record
+12146,CA|kings,train,3,Known status; no Operational record
+12161,NM|santa fe,train,1,Known status; no Operational record
+12162,OH|seneca,train,2,Known status; no Operational record
+12182,MI|barry,holdout,-1,Operational record
+12183,OR|crook,train,3,Known status; no Operational record
+12201,TX|collin,train,1,Operational record
+12202,TX|angelina,train,1,Known status; no Operational record
+12203,MI|wexford,train,2,Known status; no Operational record
+12204,TX|wichita,train,1,Known status; no Operational record
+12205,AZ|maricopa,train,4,Known status; no Operational record
+12206,OH|defiance,train,1,Known status; no Operational record
+12207,TX|cameron,train,2,Known status; no Operational record
+12208,MO|washington,train,1,Known status; no Operational record
+12209,UT|tooele,train,0,Known status; no Operational record
+12210,AZ|pinal,train,2,Known status; no Operational record
+12211,NM|sandoval,holdout,-1,Known status; no Operational record
+12212,TX|lubbock,train,3,Known status; no Operational record
+12213,FL|lake,train,4,Known status; no Operational record
+12214,OK|sequoyah,train,2,Known status; no Operational record
+12215,MI|chippewa,train,0,Known status; no Operational record
+12216,AK|kenai peninsula,train,4,Known status; no Operational record
+12217,TX|rusk,holdout,-1,Known status; no Operational record
+12221,CO|eagle,train,2,Known status; no Operational record
+12222,NM|dona ana,train,2,Known status; no Operational record
+12241,VA|orange,train,2,Known status; no Operational record
+20180,MI|delta,holdout,-1,Known status; no Operational record
+20181,NE|douglas,train,4,Operational record
+20378,TX|el paso,holdout,-1,Known status; no Operational record
+20409,TX|kleberg,train,4,Known status; no Operational record
+20695,AZ|yuma,train,3,Known status; no Operational record
+20696,FL|pasco,train,1,Known status; no Operational record
+20697,FL|broward,train,4,Known status; no Operational record
+20698,FL|polk,train,1,Known status; no Operational record
+20699,GA|meriwether,train,4,Known status; no Operational record
+20700,GA|decatur,train,0,Known status; no Operational record
+20701,GA|liberty,train,3,Known status; no Operational record
+20702,ID|elmore,train,0,Known status; no Operational record
+20703,MA|plymouth,train,3,Known status; no Operational record
+20704,MI|montmorency,train,3,Known status; no Operational record
+20705,MI|jackson,train,0,Known status; no Operational record
+20706,MN|morrison,train,0,Known status; no Operational record
+20707,MT|gallatin,holdout,-1,Known status; no Operational record
+20708,NE|dawson,train,0,Known status; no Operational record
+20709,NM|otero,train,0,Known status; no Operational record
+20710,NM|lea,train,4,Known status; no Operational record
+20711,OH|perry,train,1,Known status; no Operational record
+20712,OK|lincoln,holdout,-1,Known status; no Operational record
+20713,OK|kay,train,3,Known status; no Operational record
+20714,OK|okmulgee,train,2,Known status; no Operational record
+20715,TN|hamblen,train,0,Known status; no Operational record
+20716,TX|lamar,holdout,-1,Known status; no Operational record
+20717,TX|grayson,train,4,Known status; no Operational record
+20718,TX|hardin,train,1,Known status; no Operational record
+20719,TX|scurry,train,2,Known status; no Operational record
+20720,UT|tooele,train,0,Known status; no Operational record
+20721,VA|mecklenburg,train,4,Known status; no Operational record
+20722,WY|campbell,holdout,-1,Known status; no Operational record
+20753,AZ|pinal,train,2,Known status; no Operational record
+20754,KS|mcpherson,train,1,Known status; no Operational record
+20756,NC|randolph,holdout,-1,Known status; no Operational record
+20757,GU|[missing county],train,1,Known status; no Operational record
+20758,FL|sumter,train,1,Known status; no Operational record
+20759,WA|cowlitz,train,0,Known status; no Operational record
+20760,ND|grand forks,train,1,Known status; no Operational record
+20761,CO|adams,train,3,Known status; no Operational record
+20762,NM|eddy,train,1,Known status; no Operational record
+20763,TX|grimes,train,0,Operational record
+20764,UT|cache,train,4,Known status; no Operational record
+20767,AZ|cochise,train,0,Known status; no Operational record
+20786,FL|miami-dade,train,2,Known status; no Operational record
+20787,AZ|maricopa,train,4,Known status; no Operational record
+20788,MI|charlevoix,holdout,-1,Known status; no Operational record
+20789,NE|lancaster,holdout,-1,Known status; no Operational record
+20790,OR|clackamas,train,4,Known status; no Operational record
+20791,FL|palm beach,train,0,Known status; no Operational record
+20792,MD|anne arundel,train,1,Known status; no Operational record
+20793,HI|honolulu,train,3,Known status; no Operational record
+20794,CA|san diego,train,3,Operational record
+20795,NY|fulton,train,1,Known status; no Operational record
+20796,NY|suffolk,holdout,-1,Known status; no Operational record
+20797,GA|fulton,train,4,Known status; no Operational record
+20798,OH|clark,train,4,Known status; no Operational record
+20799,MI|calhoun,train,2,Known status; no Operational record
+20800,NY|richmond,train,3,Known status; no Operational record
+20801,OH|seneca,train,2,Known status; no Operational record
+20802,AR|jefferson,holdout,-1,Known status; no Operational record
+20803,NJ|middlesex,train,1,Operational record
+20804,CA|san diego,train,3,Known status; no Operational record
+20837,MD|howard,train,2,Known status; no Operational record
+20838,MT|lewis and clark,train,1,Known status; no Operational record
+20851,MA|plymouth,train,3,Known status; no Operational record
+20852,UT|salt lake,train,3,Known status; no Operational record
+20853,FL|orange,train,3,Known status; no Operational record
+20854,VA|campbell,train,0,Known status; no Operational record
+20855,MA|suffolk,train,4,Known status; no Operational record
+20856,MT|lake,train,1,Known status; no Operational record
+20857,OH|geauga,train,2,Known status; no Operational record
+20858,MD|baltimore,train,2,Known status; no Operational record
+20859,MO|platte,train,0,Known status; no Operational record
+20860,MD|anne arundel,train,1,Known status; no Operational record
+20861,OR|jackson,train,0,Known status; no Operational record
+20862,WI|waukesha,train,4,Known status; no Operational record
+20893,OK|oklahoma,train,0,Known status; no Operational record
+20894,MI|livingston,train,1,Known status; no Operational record
+20895,ID|jefferson,holdout,-1,Known status; no Operational record
+20896,CO|montrose,train,2,Known status; no Operational record
+20897,MA|hampshire,holdout,-1,Known status; no Operational record
+20898,MI|marquette,holdout,-1,Known status; no Operational record
+20899,MT|lewis and clark,train,1,Known status; no Operational record
+20900,OH|mahoning,train,4,Known status; no Operational record
+20901,CO|la plata,holdout,-1,Known status; no Operational record
+21018,MT|lewis and clark,train,1,Known status; no Operational record
+21129,NC|montgomery,holdout,-1,Operational record
+21130,IA|madison,train,4,Known status; no Operational record
+21132,TX|jones,holdout,-1,Known status; no Operational record
+21133,TX|hidalgo,train,3,Known status; no Operational record
+21134,NY|saratoga,train,2,Known status; no Operational record
+21135,MO|crawford,train,3,Known status; no Operational record
+21136,WY|laramie,train,2,Known status; no Operational record
+21146,MI|alger,train,0,Known status; no Operational record
+21147,MO|franklin,train,3,Known status; no Operational record
+21161,IA|mahaska,train,1,Known status; no Operational record
+21187,KS|haskell,holdout,-1,Known status; no Operational record
+21199,MA|plymouth,train,3,Known status; no Operational record
+21202,MN|wright,holdout,-1,Known status; no Operational record
+21203,PA|bucks,train,0,Known status; no Operational record
+21213,AZ|pima,holdout,-1,Known status; no Operational record
+21216,OK|garvin,holdout,-1,Known status; no Operational record
+21221,TX|webb,train,0,Known status; no Operational record
+21222,UT|utah,train,0,Known status; no Operational record
+21224,IL|peoria,train,4,Known status; no Operational record
+21260,MA|essex,train,4,Known status; no Operational record
+21398,IL|henry,train,4,Known status; no Operational record
+21399,MS|marshall,train,2,Known status; no Operational record
+21400,MD|somerset,train,1,Known status; no Operational record
+21401,TX|caldwell,train,1,Known status; no Operational record
+21402,AR|benton,train,0,Known status; no Operational record
+21403,AR|bradley,holdout,-1,Known status; no Operational record
+21404,AR|drew,train,4,Known status; no Operational record
+21405,AR|little river,holdout,-1,Known status; no Operational record
+21406,KS|wyandotte,train,1,Known status; no Operational record
+21407,KS|shawnee,holdout,-1,Known status; no Operational record
+21408,KS|sedgwick,holdout,-1,Known status; no Operational record
+21409,TX|mclennan,train,0,Known status; no Operational record

@@ -1,0 +1,131 @@
+{
+  "retrieved_utc": "2026-10-07T00:10:11.548426+00:00",
+  "selection": "Purposive four-site methodological examples, not a random validation sample or an estimated national error rate.",
+  "model_labels_unchanged": true,
+  "sources": [
+    {
+      "id": "S016",
+      "title": "SoCalGas Simi Valley RNG pipeline announcement",
+      "url": "https://www.socalgas.com/newsroom/stories/SoCalGas-Connects-Its-First-Landfill-Based-Renewable-Natural-Gas-Project-to-Its-Pipeline-System",
+      "publication_date": "2026-01-06",
+      "review_scope": "Dated announcement, opening two paragraphs and facility description; returned lines 12-20.",
+      "source_type": "public_utility_announcement",
+      "source_modified_at": null,
+      "downloaded_at": null,
+      "original_sha256": null,
+      "content_access": "Native public web text; not a binary download"
+    },
+    {
+      "id": "S017",
+      "title": "SWDA Baldwin County Magnolia landfill and RNG page",
+      "url": "https://baldwincountyswda.org/landfills-disaster-recovery/",
+      "publication_date": null,
+      "review_scope": "Magnolia identity/location section and Renewable Natural Gas section; returned lines 52-66 and 156-159.",
+      "source_type": "public_authority_page",
+      "source_modified_at": null,
+      "downloaded_at": null,
+      "original_sha256": null,
+      "content_access": "Native public web text; not a binary download"
+    },
+    {
+      "id": "S018",
+      "title": "Viridi Magnolia Section 48 credit sale announcement",
+      "url": "https://www.viridirng.com/article/viridi_announces_sale_of_first_section_48_investment_tax_credits_from_magnolia_landfill_rng_project_in_baldwin_county_alabama",
+      "publication_date": "2026-01-14",
+      "review_scope": "Dated title and opening project-specific transaction paragraph; returned lines 6-9.",
+      "source_type": "public_developer_announcement",
+      "source_modified_at": null,
+      "downloaded_at": null,
+      "original_sha256": null,
+      "content_access": "Native public web text; not a binary download"
+    },
+    {
+      "id": "S019",
+      "title": "Fresno County Planning Commission September 18 2025 agenda",
+      "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/public-works-and-planning/development-services/planning-and-land-use/planning-commission/agendas-and-action-summaries/2025-09-18-agenda-adobe.pdf",
+      "publication_date": "2025-09-18",
+      "review_scope": "PDF p1 agenda date and p2 item3 CUP3823, exact site address. Native parsed text read; PDF screenshot returned cache miss.",
+      "source_type": "public_government_pdf",
+      "source_modified_at": null,
+      "downloaded_at": null,
+      "original_sha256": null,
+      "content_access": "Native public web text; not a binary download"
+    },
+    {
+      "id": "S020",
+      "title": "United Group Services Medley RNG case study",
+      "url": "https://united-gs.com/case-studies/medley-rng-facility/",
+      "publication_date": null,
+      "review_scope": "Project Overview and Results & Impact, returned lines 95-101 and 209-214; date absent.",
+      "source_type": "public_contractor_case_study",
+      "source_modified_at": null,
+      "downloaded_at": null,
+      "original_sha256": null,
+      "content_access": "Native public web text; not a binary download"
+    }
+  ],
+  "checks": [
+    {
+      "landfill_id": 279,
+      "landfill_name": "Simi Valley LF",
+      "state": "CA",
+      "historical_status": "Construction; Shutdown",
+      "source_ids": "S016",
+      "evidence_date": "2026-01-06",
+      "evidence_status": "dated_pipeline_receipt_confirmed",
+      "facility_match": "High: facility name plus Ventura County and WM; exact LMOP project ID not confirmed",
+      "finding": "The receiving utility reports accepting RNG from the new WM Simi Valley facility on 2026-01-06.",
+      "limitation": "Confirms a later operational-use event, not continued uninterrupted operation as of October 2026, measured emissions, or a 2024 database error.",
+      "source_url": "https://www.socalgas.com/newsroom/stories/SoCalGas-Connects-Its-First-Landfill-Based-Renewable-Natural-Gas-Project-to-Its-Pipeline-System"
+    },
+    {
+      "landfill_id": 20,
+      "landfill_name": "Magnolia Subtitle D MSW LF",
+      "state": "AL",
+      "historical_status": "Construction",
+      "source_ids": "S017; S018",
+      "evidence_date": "",
+      "evidence_status": "public_authority_describes_RNG_use_on_undated_page",
+      "facility_match": "Medium-high: Magnolia name, Summerdale and Baldwin County; 2024 record uses authority office address rather than the webpage landfill address",
+      "finding": "The public waste authority describes RNG production at Magnolia; a dated developer announcement links a 2026-01-14 credit sale to that landfill project.",
+      "limitation": "The operating page is undated, and the tax-credit transaction alone does not establish commissioning date, legal eligibility or causal policy effects.",
+      "source_url": "https://baldwincountyswda.org/landfills-disaster-recovery/"
+    },
+    {
+      "landfill_id": 42,
+      "landfill_name": "American Avenue Landfill",
+      "state": "CA",
+      "historical_status": "Planned",
+      "source_ids": "S019",
+      "evidence_date": "2025-09-18",
+      "evidence_status": "permit_amendment_proposal_only",
+      "facility_match": "High: 18950 W American Avenue exactly matches the source landfill address",
+      "finding": "The county agenda identifies a proposed amendment of the landfill gas conditioning system permit, including changed capacity and equipment.",
+      "limitation": "An agenda/proposed permit amendment is not an operation or commissioning certificate; current operational status remains unresolved.",
+      "source_url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/public-works-and-planning/development-services/planning-and-land-use/planning-commission/agendas-and-action-summaries/2025-09-18-agenda-adobe.pdf"
+    },
+    {
+      "landfill_id": 402,
+      "landfill_name": "Medley Landfill",
+      "state": "FL",
+      "historical_status": "Construction",
+      "source_ids": "S020",
+      "evidence_date": "",
+      "evidence_status": "undated_contractor_completion_claim",
+      "facility_match": "Medium: Medley FL RNG facility; no exact address, client name or LMOP project ID confirmed",
+      "finding": "The contractor case study describes a completed Medley RNG facility converting landfill gas.",
+      "limitation": "No publication/commissioning date or exact source-project ID: retain as follow-up evidence, not a dated validated outcome.",
+      "source_url": "https://united-gs.com/case-studies/medley-rng-facility/"
+    }
+  ],
+  "failed_accesses": [
+    {
+      "url": "https://baldwincountyswda.org/docs/default-source/solid-waste-document/baldwin-swmp-public-notice-draft.pdf?sfvrsn=47999b4f_1",
+      "failure": "404 on full fetch; search snippet not used as confirmed full document evidence"
+    },
+    {
+      "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/public-works-and-planning/development-services/planning-and-land-use/planning-commission/agendas-and-action-summaries/2025-09-18-agenda-adobe.pdf",
+      "failure": "PDF screenshot cache miss; text/date/item3 read successfully; no local original download"
+    }
+  ]
+}

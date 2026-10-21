@@ -1,0 +1,28 @@
+{
+  "created_utc": "2026-10-07T00:06:53.268Z",
+  "checks": {
+    "original_2641_records_retained": true,
+    "original_CA_filter_299": true,
+    "original_no_operational_757": true,
+    "all_seven_specifications_visible": true,
+    "real_geographic_metric_0605": true,
+    "paired_interval_spans_zero": true,
+    "threshold_tradeoff_55_fp": true,
+    "NJ_state_diagnostic": true,
+    "MT_coverage_and_small_sample_flag": true,
+    "empty_state_selection_handled": true,
+    "geographic_export_has_53_rows": true,
+    "review_seven_buckets": true,
+    "review_unknown_separate": true,
+    "757_review_rows_downloaded": true,
+    "review_questions_and_source_rows_present": true,
+    "mobile_no_horizontal_overflow": true,
+    "no_runtime_errors": true,
+    "no_external_requests": true
+  },
+  "errors": [],
+  "requests": [
+    "file:///C:/Users/shulu/Desktop/Alice_Methane/outputs/2026-10-06_geographic_robustness/run_001/LMOP_Explorer_v2.html"
+  ],
+  "actual_msedge_browser": true
+}

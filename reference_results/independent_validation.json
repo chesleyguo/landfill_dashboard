@@ -1,0 +1,83 @@
+{
+  "created_utc": "2026-10-07T00:03:45.011514+00:00",
+  "command": [
+    "C:\\Users\\shulu\\Desktop\\Alice_Methane\\.venv-research\\Scripts\\python.exe",
+    "scripts\\validate_lmop_robustness.py",
+    "--attempt-name",
+    "validation_attempt_002"
+  ],
+  "duration_seconds": 2.8909999999887077,
+  "script_sha256": "81f1f18b1987ec5f98407d45f9094f1ffbab370f98a81b6ac7a23070ca9fe207",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.7.2"
+  },
+  "max_metric_difference": 2.220446049250313e-16,
+  "independent_refits": [
+    {
+      "state": "CA",
+      "max_absolute_probability_difference": 1.1102230246251565e-16,
+      "test_n": 288
+    },
+    {
+      "state": "NJ",
+      "max_absolute_probability_difference": 8.326672684688674e-17,
+      "test_n": 27
+    },
+    {
+      "state": "MT",
+      "max_absolute_probability_difference": 8.326672684688674e-17,
+      "test_n": 10
+    }
+  ],
+  "threshold_reconstructed": 0.3378628705230249,
+  "bootstrap_seed": 20261007,
+  "intervals": [
+    {
+      "comparison": "full_minus_waste_only",
+      "point_difference": 0.01213331612233376,
+      "lower_95": -0.012904451105885293,
+      "upper_95": 0.03715714294738163,
+      "valid_replicates": 500,
+      "includes_zero": true
+    },
+    {
+      "comparison": "full_minus_waste_status",
+      "point_difference": -0.006991873472127708,
+      "lower_95": -0.023531782538906858,
+      "upper_95": 0.0112857086498843,
+      "valid_replicates": 500,
+      "includes_zero": true
+    },
+    {
+      "comparison": "coverage_minus_full",
+      "point_difference": 0.007463886841424072,
+      "lower_95": 0.00026929638059610685,
+      "upper_95": 0.015856291593475343,
+      "valid_replicates": 500,
+      "includes_zero": false
+    },
+    {
+      "comparison": "missingness_minus_full",
+      "point_difference": -3.4820816634861806e-05,
+      "lower_95": -0.004443561139903515,
+      "upper_95": 0.004571442049858952,
+      "valid_replicates": 500,
+      "includes_zero": true
+    }
+  ],
+  "interpretation": "Secondary conditional paired holdout comparisons; no model selection, national representativeness or refitting uncertainty.",
+  "checks": {
+    "all_pooled_and_state_metrics_reconcile": true,
+    "all_2325_ids_predicted_once": true,
+    "observed_labels_match_audited_analysis_input": true,
+    "whole_states_withheld": true,
+    "three_independent_state_refits_match": true,
+    "training_threshold_independently_reproduced": true,
+    "threshold_training_holdout_ids_disjoint": true,
+    "threshold_confusion_matrices_reconcile": true,
+    "500_paired_resamples": true,
+    "source_hashes_still_match": true
+  }
+}
