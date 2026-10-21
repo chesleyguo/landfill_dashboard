@@ -37,6 +37,36 @@ page interface was extended.
   percentage points. Descriptive only, not significance tests or causal effects.
 - Theme button: automatic (follows the system), light or dark. The choice is
   stored only in this browser.
+- More filters: County (after choosing a state), Record review (the 757-site
+  queue, each review bucket, sites outside the queue, or the four
+  public-source spot checks) and Project status checkboxes (Operational,
+  Construction, Planned, Candidate, Future Potential, Low Potential, Shutdown,
+  Unknown; a site matches if it carries any selected status). "Comparison
+  within selection" can also group by county.
+- Project status records chart: share of sites carrying each status under the
+  other filters (a site can carry several, so bars do not sum to 100%);
+  select a bar to filter. Waste data year chart: how old each waste value is.
+- Records table: review-bucket and spot-check badges, and the full project
+  status set under the energy record. Export table CSV includes county,
+  project statuses, review bucket and spot-check flag.
+- Site details: Previous/Next through the current order (arrow keys work),
+  the record's review question, public-source check findings and limits,
+  operational parent projects with links to other landfills supplying the same
+  project, an EPA source link, and the seven retrospective leave-state-out
+  model scores. Scores describe the September 2024 register only (not
+  feasibility, priority or a forecast), are shown rounded, and are
+  deliberately not sortable; Unknown-only sites have none.
+- Additional research: a forest plot of the four paired AP differences, a
+  per-state fold chart (AP against prevalence, with the pooled AP), and a
+  threshold explorer on the 510 held-out sites (precision, recall, flagged
+  sites and false positives at any threshold; 0.5 and the training-selected
+  0.338 reproduce the published 62/27 and 113/55). The explorer uses holdout
+  labels for illustration and must not be used to pick a threshold.
+- The record-review panel has "Show these 757 records in the table".
+- The page embeds compact copies of reference_results/geographic_predictions.csv
+  (scores in thousandths), public_reference/holdout_predictions.csv,
+  public_reference/operational_project_site_links.csv and
+  reference_results/public_status_spot_checks.csv (about 110 KB).
 - Phones show records as cards with a sort menu. Printing expands all
   collapsed sections and adds a line with print time, filters, sort and view
   link; only the current page of the records table is printed.
