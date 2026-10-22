@@ -95,16 +95,16 @@
       "sha256": "f62b06e5ac41cb957b0f29b2588a12a20d5e9aa42644599bc429853a530e8d41"
     },
     "README.txt": {
-      "bytes": 10923,
-      "sha256": "91ac5045eb34fade9b03c9788531a4ed16503f438e4377129286c93a159064e4"
+      "bytes": 13034,
+      "sha256": "bf2df5ce7f5b5fc62e0655f93c450819167b9494d4393d4e20a5bf5a77360d63"
     },
     "requirements.txt": {
       "bytes": 96,
       "sha256": "8f1a0ddff210a91fc24f49a9b21a673b7c9a79e253482300eb8c4d7d41c5ab4b"
     },
     "LMOP_Explorer_Final.html": {
-      "bytes": 1739082,
-      "sha256": "4597313c1298e715ee1281a86b758feb0c61710f760d8b45f424aa1d24169a95"
+      "bytes": 1962124,
+      "sha256": "aa0e10e5d36c67f1faaa278b34a22f5401328fb48ee0a9b83b258172905986b6"
     },
     "reference_results/public_status_spot_checks.csv": {
       "bytes": 2407,
@@ -125,6 +125,18 @@
     "scripts/update_manifest.py": {
       "bytes": 1404,
       "sha256": "192a00c6cfff239c0cf2bfee979dd95d12c62a6a043f8dff2775b852148d4a74"
+    },
+    "public_reference/landfill_projects.csv": {
+      "bytes": 178668,
+      "sha256": "13957fe49c0cbeee7368464b6108e9955973ada3bf30e5a56b90b834264ec842"
+    },
+    "public_reference/airborne_methane_cusworth2024.csv": {
+      "bytes": 7217,
+      "sha256": "0a47ac90f581542939e9c47672aa678a1afd27d9230cab350255ba491e9d0ede"
+    },
+    "scripts/extract_project_and_airborne_data.py": {
+      "bytes": 5893,
+      "sha256": "026491e47a00edfc09f7ffaa93bc615861fdb34c8f691dd9213636e43c58d941"
     }
   }
 }

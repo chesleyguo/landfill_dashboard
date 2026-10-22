@@ -97,6 +97,36 @@ page interface was extended.
   mapped and the source value is left uncorrected. Site details add city,
   GHGRP facility ID (1,332 sites; the key for a future join to EPA GHGRP
   emissions), coordinates and the five nearest landfills.
+- Energy projects (from the September 2024 project file lmopdata.xlsx, hash
+  a5c8bea2..., the same release as the landfill file): a chart of Operational
+  projects at the selected landfills by start period and type (electricity,
+  direct use, renewable natural gas), with totals for rated MW, LFG flow and
+  EPA-estimated current-year emission reductions (estimates, not
+  measurements). Each site's details list its project rows. A new "Operational
+  project type" filter is under More filters. 652 Operational projects
+  (including expansions) at 488 landfills, 542 parent projects; this agrees
+  with public_reference/operational_project_site_links.csv.
+- Airborne methane observations: Cusworth et al. (2024), "Quantifying methane
+  emissions from United States landfills", Science 383:1499-1504
+  (doi:10.1126/science.adi7735); data published by EPA ORD
+  (doi:10.23719/1531980, science.adi7735_data_s1.xlsx, SHA256
+  a0e78827cb0fe3f045b767dbaad93c0e66883c480ca17bb3bc498c6b324ff30b; EPA
+  public-domain data license). All 107 landfills in its time-averaged source
+  list join to exactly one LMOP landfill by GHGRP ID (18 states, 2016-2022).
+  The chart shows each observed landfill's average emission rate (kg CH4/h,
+  log scale, optionally per million short tons of waste in place) by energy
+  record, with medians. These are airborne snapshots of large landfills, not
+  annual totals, and sites with projects tend to be larger, so differences are
+  not effects of projects. Values are copied as published: 11 listed
+  landfills have no average rate, and 40 plumes under 7 GHGRP IDs (one,
+  "7837", malformed) are not in the source list; neither is corrected.
+  Details show the rate, uncertainty, days flown, plume dates and the reported
+  GHGRP value as published (tCO2e, not converted). Filter: "Airborne methane
+  data" under More filters.
+- public_reference/landfill_projects.csv and
+  public_reference/airborne_methane_cusworth2024.csv are produced, after both
+  hashes are checked, by:
+    python scripts/extract_project_and_airborne_data.py lmopdata.xlsx science.adi7735_data_s1.xlsx
 - My review workbench (Record review section and each site's details): record
   a result (confirmed as recorded, discrepancy found, could not determine),
   notes and an evidence link for any site, step to the next unreviewed record,
@@ -161,6 +191,6 @@ https://www.epa.gov/lmop/landfill-gas-energy-project-data
 Mixed years, incomplete recording and uneven Unknown exclusions limit all
 inferences. Waste amounts are US short tons. The waste year is not the date
 of every status. Public source availability is not asserted to be a CC0 license.
-Prepared with Codex assistance.
+Prepared with Codex and Claude assistance.
 
 Final extension: four public-source status examples with dated/undated identity limits. Historical model targets remain unchanged. Public webpages/PDF binaries are not bundled; source URLs and paraphrased evidence are retained.
